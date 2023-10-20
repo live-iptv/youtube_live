@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
+
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="", Star Sports 1
+https://live-iptv.github.io/youtube_news/assets/info.m3u8
