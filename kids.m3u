@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://live-iptv.github.io/youtube_news/assets/info.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698409459/ei/k1c7Zf6jOMqU_9EPiOKemAk/ip/172.177.208.152/id/k5Q7YEk-dZ0.2/source/yt_live_broadcast/requiressl/yes/tx/51012156/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fzE-USUGuZhYdF1vYhoS50Ixp4lgfRLD0PKqvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhAOGaw7gWCBBHSOuxq97NCV3ihfzN7wpjUUSpYZcn6B1aAiEAxohP2QQQ1xDMlbsFr9vby52YZKDyAkU2ejiOnLgDVFc%3D/file/index.m3u8
@@ -10,7 +10,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698409459/ei/k
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698409460/ei/lFc7ZYnOF9Wp_9EPwry_2AU/ip/172.177.208.152/id/agsl9VFgnKI.1/source/yt_live_broadcast/requiressl/yes/tx/51012156/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fxPjDpV0OBH2bakJjCt0lW7kb4VBXASNLZwSmg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAJyHb6EpaeXv1mYj9FuZPN7VDwcNaTBdUOOEQNDMn1VUAiA4OpsCmydkLSS1rkVaIu1r1CBx87eOybvgrJ_xNCIRTQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
-https://live-iptv.github.io/youtube_news/assets/info.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698409461/ei/lVc7ZZXzF5Cs_9EPlNGaEA/ip/172.177.208.152/id/f9WTRFXQpX8.1/source/yt_live_broadcast/requiressl/yes/tx/51012156/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwSsk-xdN3GMjYH4yhCoHxw3BewZsBVKxpo9sg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgH9M7JEN1drunJczNsZJkuwP9GujHIXqoe4EDIH2kxewCIHyWQwAt3U7thfOsbD5KgOyEKslw5JgcrMSkce8fVosx/file/index.m3u8

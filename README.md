@@ -5,21 +5,21 @@
 
 ### All Channels
 ``` bash
-https://live-iptv.github.io/youtube_news/youtube.m3u
+https://live-iptv.github.io/youtube_live/youtube.m3u
 ```
 ### Malayalam Channels
 ``` bash
-https://live-iptv.github.io/youtube_news/malayalam.m3u
+https://live-iptv.github.io/youtube_live/malayalam.m3u
 ```
 
 ### Tamil Channels
 ``` bash
-https://live-iptv.github.io/youtube_news/tamil.m3u
+https://live-iptv.github.io/youtube_live/tamil.m3u
 ```
 
 ### Sports Channels
 ``` bash
-https://live-iptv.github.io/youtube_news/sports.m3u
+https://live-iptv.github.io/youtube_live/sports.m3u
 ```
 
 Works best with :   [Online Tv](https://play.google.com/store/apps/details?id=com.sp.tv) ,
@@ -32,7 +32,7 @@ Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Usage
-Paste this URL: https://live-iptv.github.io/youtube_news/youtube.m3u to any player which supports M3U playlists
+Paste this URL: https://live-iptv.github.io/youtube_live/youtube.m3u to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
