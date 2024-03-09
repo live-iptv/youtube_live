@@ -10,33 +10,22 @@ def fix_m3u_from_url(url):
 
     lines = response.text.split('\n')
 
-    # Extract group titles and URLs
+    # Extract URLs with associated information
     entries = []
-    current_group = None
-    for line in lines:
-        if line.startswith('#EXTINF:'):
-            match = re.search(r'group-title="([^"]+)"', line)
+    for i in range(0, len(lines) - 1, 2):
+        if lines[i].startswith('#EXTINF:'):
+            match = re.search(r'tvg-logo="([^"]+)" group-title="([^"]+)",(.+)', lines[i])
             if match:
-                current_group = match.group(1)
-            else:
-                current_group = 'Uncategorized'
-        elif line.startswith('http'):
-            entries.append((current_group, line.strip()))
-
-    # Group and sort entries
-    grouped_entries = {}
-    for group, url in entries:
-        if group not in grouped_entries:
-            grouped_entries[group] = []
-        grouped_entries[group].append(url)
+                tvg_logo = match.group(1)
+                group_title = match.group(2)
+                name = match.group(3)
+                url = lines[i + 1].strip()
+                entries.append((tvg_logo, group_title, name, url))
 
     # Write the sorted M3U content
     sorted_m3u_content = []
-    for group in sorted(grouped_entries.keys()):
-        for url in sorted(grouped_entries[group]):
-            tvg_logo = re.search(r'tvg-logo="([^"]+)"', url)
-            tvg_logo_value = tvg_logo.group(1) if tvg_logo else ''
-            sorted_m3u_content.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group_title}",{name}\n{url}\n')
+    for tvg_logo, group_title, name, url in entries:
+        sorted_m3u_content.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group_title}",{name}\n{url}\n')
 
     # Display or save the fixed M3U content
     for line in sorted_m3u_content:
