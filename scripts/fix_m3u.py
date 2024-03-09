@@ -19,7 +19,7 @@ def fix_m3u_from_url(url):
             if match:
                 current_group = match.group(1)
             else:
-                current_group = None
+                current_group = 'Uncategorized'
         elif line.startswith('http'):
             entries.append((current_group, line.strip()))
 
