@@ -12,7 +12,7 @@ def fix_m3u_from_url(url):
 
     # Extract URLs with associated information
     entries = []
-    for i in range(0, len(lines) - 1, 2):
+    for i in range(0, len(lines) - 1, 1):
         if lines[i].startswith('#EXTINF:'):
             match = re.search(r'#EXTINF:-1 (.+?),(.+)', lines[i])
             if match:
