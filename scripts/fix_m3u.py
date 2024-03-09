@@ -20,10 +20,10 @@ def fix_m3u_from_url(url):
                 url = lines[i + 1].strip()
 
                 # Extract group-title and tvg-logo, if available
-                group_match = re.search(r'group-title="([^"]+)"', lines[i])
+                group_match = re.search(r'group-title="([^"]*)"', lines[i])
                 group_title = group_match.group(1) if group_match else ''
-                
-                logo_match = re.search(r'tvg-logo="([^"]+)"', lines[i])
+
+                logo_match = re.search(r'tvg-logo="([^"]*)"', lines[i])
                 tvg_logo = logo_match.group(1) if logo_match else ''
 
                 entries.append((name, url, group_title, tvg_logo))
