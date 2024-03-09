@@ -16,8 +16,8 @@ def fix_m3u_from_url(url):
         if lines[i].startswith('#EXTINF:'):
             match = re.search(r'tvg-logo="([^"]+)" group-title="([^"]+)",(.+)', lines[i])
             if match:
-                tvg_logo = match.group(1)
-                group_title = match.group(2)
+                tvg_logo = match.group(1) if match.group(1) else ''
+                group_title = match.group(2) if match.group(2) else ''
                 name = match.group(3)
                 url = lines[i + 1].strip()
                 entries.append((tvg_logo, group_title, name, url))
