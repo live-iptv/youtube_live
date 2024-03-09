@@ -18,12 +18,14 @@ def fix_m3u_from_url(url):
         if line.startswith('#EXTINF:-1'):
             match = re.search(r'#EXTINF:-1 (.+?),(.+)', line)
             if match:
-                attributes_str = match.group(1)
-                name = match.group(2)
+                group_title = match.group(1) if match.group(1) is not None else ''
+                tvg_logo = match.group(2) if match.group(2) is not None else ''
+                tvg_id = match.group(3) if match.group(3) is not None else ''
+                name = match.group(4)
                 current_entry = {
-                    'group_title': re.search(r'group-title="([^"]*)"', attributes_str).group(1) if re.search(r'group-title="([^"]*)"', attributes_str) else '',
-                    'tvg_logo': re.search(r'tvg-logo="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-logo="([^"]*)"', attributes_str) else '',
-                    'tvg_id': re.search(r'tvg-id="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-id="([^"]*)"', attributes_str) else '',
+                    'group_title': group_title,
+                    'tvg_logo': tvg_logo,
+                    'tvg_id': tvg_id,
                     'name': name,
                 }
         elif current_entry is not None:
