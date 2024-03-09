@@ -32,7 +32,8 @@ def fix_m3u_from_url(url):
             current_entry = None
 
     # Sort entries based on name
-    sorted_entries = sorted(entries, key=lambda x: x['name'])
+    sorted_entries = sorted(entries, key=lambda x: x['group_title'])
+
 
     # Write the sorted M3U content
     sorted_m3u_content = []
