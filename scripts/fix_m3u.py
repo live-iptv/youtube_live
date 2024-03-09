@@ -21,10 +21,10 @@ def fix_m3u_from_url(url):
                 attributes = match.group(1)
                 # Extract individual attributes
                 group_title_match = re.search(r'group-title="([^"]*)"', attributes)
-                group_title = group_title_match.group(1) if group_title_match else 'Others'
+                group_title = group_title_match.group(1) if group_title_match.group(1) else 'Others'
                 
                 tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
-                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
+                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match.group(1) else ''
 
                 
                 #group_title = re.search(r'group-title="([^"]*)"', attributes).group(1) if re.search(r'group-title="([^"]*)"', attributes) else ''
@@ -49,6 +49,7 @@ def fix_m3u_from_url(url):
         sorted_m3u_content.append(f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}\n{entry["url"]}')
 
     # Display or save the fixed M3U content
+    print('#EXTM3U ')
     for line in sorted_m3u_content:
         print(line)
 
