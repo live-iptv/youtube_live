@@ -12,28 +12,32 @@ def fix_m3u_from_url(url):
 
     # Extract URLs with associated information
     entries = []
-    for i in range(0, len(lines) - 1, 1):
-        if lines[i].startswith('#EXTINF:'):
-            match = re.search(r'#EXTINF:-1 (.+?),(.+)', lines[i])
+    current_entry = None
+
+    for line in lines:
+        if line.startswith('#EXTINF:-1'):
+            match = re.search(r'#EXTINF:-1 (.+?),(.+)', line)
             if match:
                 attributes_str = match.group(1)
                 name = match.group(2)
-                url = lines[i + 1].strip()
-
-                # Extract individual attributes
-                group_title = re.search(r'group-title="([^"]*)"', attributes_str).group(1) if re.search(r'group-title="([^"]*)"', attributes_str) else ''
-                tvg_logo = re.search(r'tvg-logo="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-logo="([^"]*)"', attributes_str) else ''
-                tvg_id = re.search(r'tvg-id="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-id="([^"]*)"', attributes_str) else ''
-
-                entries.append((group_title, tvg_logo, tvg_id, name, url))
+                current_entry = {
+                    'group_title': re.search(r'group-title="([^"]*)"', attributes_str).group(1) if re.search(r'group-title="([^"]*)"', attributes_str) else '',
+                    'tvg_logo': re.search(r'tvg-logo="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-logo="([^"]*)"', attributes_str) else '',
+                    'tvg_id': re.search(r'tvg-id="([^"]*)"', attributes_str).group(1) if re.search(r'tvg-id="([^"]*)"', attributes_str) else '',
+                    'name': name,
+                }
+        elif current_entry is not None:
+            current_entry['url'] = line.strip()
+            entries.append(current_entry)
+            current_entry = None
 
     # Sort entries based on name
-    sorted_entries = sorted(entries, key=lambda x: x[3])
+    sorted_entries = sorted(entries, key=lambda x: x['name'])
 
     # Write the sorted M3U content
     sorted_m3u_content = []
-    for group_title, tvg_logo, tvg_id, name, url in sorted_entries:
-        sorted_m3u_content.append(f'#EXTINF:-1 group-title="{group_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}",{name}\n{url}\n')
+    for entry in sorted_entries:
+        sorted_m3u_content.append(f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}" tvg-id="{entry["tvg_id"]}",{entry["name"]}\n{entry["url"]}\n')
 
     # Display or save the fixed M3U content
     for line in sorted_m3u_content:
