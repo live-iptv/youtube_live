@@ -20,8 +20,15 @@ def fix_m3u_from_url(url):
             if match:
                 attributes = match.group(1)
                 # Extract individual attributes
-                group_title = re.search(r'group-title="([^"]*)"', attributes).group(1) if re.search(r'group-title="([^"]*)"', attributes) else ''
-                tvg_logo = re.search(r'tvg-logo="([^"]*)"', attributes).group(1) if re.search(r'tvg-logo="([^"]*)"', attributes) else ''
+                group_title_match = re.search(r'group-title="([^"]*)"', attributes)
+                group_title = group_title_match.group(1) if group_title_match else ''
+                
+                tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
+                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
+
+                
+                #group_title = re.search(r'group-title="([^"]*)"', attributes).group(1) if re.search(r'group-title="([^"]*)"', attributes) else ''
+                #tvg_logo = re.search(r'tvg-logo="([^"]*)"', attributes).group(1) if re.search(r'tvg-logo="([^"]*)"', attributes) else ''
                 name = match.group(2)
                 current_entry = {
                     'group_title': group_title,
