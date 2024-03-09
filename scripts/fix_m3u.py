@@ -22,9 +22,12 @@ def fix_m3u_from_url(url):
                 url = lines[i + 1].strip()
                 entries.append((tvg_logo, group_title, name, url))
 
+    # Sort entries based on group-title
+    sorted_entries = sorted(entries, key=lambda x: x[1])
+
     # Write the sorted M3U content
     sorted_m3u_content = []
-    for tvg_logo, group_title, name, url in entries:
+    for tvg_logo, group_title, name, url in sorted_entries:
         sorted_m3u_content.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group_title}",{name}\n{url}\n')
 
     # Display or save the fixed M3U content
