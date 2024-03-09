@@ -33,9 +33,8 @@ def fix_m3u_from_url(url):
     # Write the sorted M3U content
     sorted_m3u_content = []
     for group in sorted(grouped_entries.keys()):
-        sorted_m3u_content.append(f'#EXTINF:-1 group-title="{group}"')
         for url in sorted(grouped_entries[group]):
-            sorted_m3u_content.append(url)
+            sorted_m3u_content.append(f'{url} tvg-logo="" group-title="{group}",name="{group}"')
 
     # Display or save the fixed M3U content
     for line in sorted_m3u_content:
