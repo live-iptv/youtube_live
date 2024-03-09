@@ -36,7 +36,7 @@ def fix_m3u_from_url(url):
         for url in sorted(grouped_entries[group]):
             tvg_logo = re.search(r'tvg-logo="([^"]+)"', url)
             tvg_logo_value = tvg_logo.group(1) if tvg_logo else ''
-            sorted_m3u_content.append(f'#EXTINF:-1 tvg-logo="{tvg_logo_value}" group-title="{group}",name="{group}"\n{url}\n')
+            sorted_m3u_content.append(f'#EXTINF:-1 tvg-logo="{tvg_logo}" group-title="{group_title}",{name}\n{url}\n')
 
     # Display or save the fixed M3U content
     for line in sorted_m3u_content:
