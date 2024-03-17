@@ -265,6 +265,22 @@ http://sacheintv.phoenixcreations.online:1935/sacheintv/sacheintv/playlist.m3u8
 http://sartv.phoenixcreations.online:1935/sartv/sartv/playlist.m3u8
 #EXTINF:-1 group-title="Phoenix Creations" tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1699188473.jpg",SAR 2 TV
 http://sartv2.phoenixcreations.online:1935/sartv2/sartv2/playlist.m3u8
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI TV
+rtmp://rasinetworks.in/rasinetworks/rasitv
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI TAMIL
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI MUSIC
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasimusic
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI MOVIES
+rtmp://rasinetworks.in/rasinetworks/rasimovies
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI HOLLYWOOD
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasihollywood
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI Comedy
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasicomedy
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI Classic
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasiclassic
+#EXTINF:-1 group-title="RASI NETWORKS" tvg-logo="",RASI TAMIL
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
 #EXTINF:-1 group-title="SK" tvg-logo="",Eye Tamil tv
 https://live.eyetamil.tv/tv/index.m3u8
 #EXTINF:-1 group-title="SK" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png",Analai Express cinema HD
@@ -375,6 +391,54 @@ http://vedhatv.phoenixcreations.online:1935/vedhatv/vedhatv/playlist.m3u8
 https://stream.zeno.fm/22db1xmde2zuv
 #EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-2
 https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-3
+https://stream-161.zeno.fm/yu4c9ms3h2zuv?zs=4HoIfUjLRWuRN_8Yv1berA
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-4
+https://vijayfm-prabak78.radioca.st/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-5
+https://stream-155.zeno.fm/x7wc1xgllvsvv?zs=tbulGluAQaeTD6rZCAlkcA
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-6
+https://sp.radiotamilonline.com/kavikkuyilfm/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-8
+https://stream-156.zeno.fm/uhqxtxxty7zuv?zs=DdzU1DrrS1-qcliimKH_9g
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-9
+https://sp.radiotamilonline.com/8016/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-10
+https://stream-159.zeno.fm/xzt706p3h2zuv?zs=HlgXGKLnTISaUH_9RreFjw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-11
+https://vpmurugun.radioca.st/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-12
+https://sp.radiotamilonline.com/lakshmifm/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-13
+https://eu10.fastcast4u.com:6740/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK KODAIRAGAM-14
+https://sp.radiotamilonline.com/8006/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK KODAIKKANAL-15
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-16
+https://stream-154.zeno.fm/ewuo8mhb9zyvv?zs=NYqsH5b6S1iei93QVawHHw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-17
+https://stream-176.zeno.fm/b9vhhaukg5zuv?zs=-idOLhdaSACw04KDjWbLbw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-18
+https://sp.radiotamilonline.com/8010/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-19
+https://stream-154.zeno.fm/s3fd0rhbylxtv?zs=SgeGcFdoSNK3utzpo6a1gw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-20
+https://stream-158.zeno.fm/ob6tjg8gulptv?zs=F5CvJ0FmTLKvbjCkP4cpHw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-21
+https://stream-171.zeno.fm/aqf1rvdnc18uv?zs=-99sPVphQ165vgbl5BD6bg
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-22
+https://stream-154.zeno.fm/ql6npqkk4wpvv?zs=_wlTP1NHRPmcYtgzt5wLJw
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-23
+https://ec3.yesstreaming.net:4105/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-24
+https://sp.radiotamilonline.com/nathamcityfm/stream
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-25
+https://stream-155.zeno.fm/uhqxtxxty7zuv?zs=en-wcFBsQrqj5-RGWJNa8w
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK RADIO-26
+https://stream-176.zeno.fm/swgzh04zbg0uv?zs=f55IZZiISFK5MsPggpCI8Q
+#EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg",SAT.SK BAKTHI-27
+https://stream-144.zeno.fm/2532fy6zrf9uv?zs=QpaJn5wfTcqhcZblZDgytw
 #EXTINF:-1 group-title="Singam Cloud" tvg-logo="https://play-lh.googleusercontent.com/H5bxsVktCgN4W1hCbAxo2eGFei57qTz6Ma4k-RwGXnZkdMTvPWNsA7rFk1ewLsPOYDrO=w240-h480-rw",Bharani TV
 https://eagle.iptelevision.in/hls/bharni.m3u8
 #EXTINF:-1 group-title="Singam Cloud" tvg-logo="",JHP TV
@@ -828,7 +892,9 @@ https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaiK4V0hcvNph6gkwuUHqRE2Pbc0QB-wf_5WfUuegDTYHXTB5CLcaW8M&s=10", News7
 https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png",4K Sooriyan TV
-https://samson.streamerr.co:8081/sooriyantv/index.m3u8
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-104/5pwp-9xg9/playlist.m3u8
+#EXTINF:-1 group-title="Tamil International" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png",4K Sooriyan 2
+https://demo.mediacp.net:19360/nginxrelay/nginxrelay.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/athavan.jpg",Aathavan TV
@@ -903,8 +969,6 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://1cloud.digital/onetv/onemovies.m3u8
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e", One Hollywood HD
 https://1cloud.digital/onetv/onehollywood.m3u8
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK MOVIES
 http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tvchennallive.m3u8
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",Rasi TV
@@ -923,8 +987,6 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Tamil;Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU",VinmeenMusic
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/wp-17086796969802913656847092632986.png",AJK Movie HD
-http://rott.ridsys.in/riptv/live/stream27/index.m3u8
 #EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1447261974648814809978949.png",Ridsys Tv
 http://rott.ridsys.in/riptv/live/stream28/index.m3u8
 #EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_150140314905777125097688.png",Tianaa Music Tv
@@ -1017,7 +1079,3 @@ https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b37529050
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="locl" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png",MONTAMIL HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
-#EXTINF:-1 group-title="sports" tvg-logo="",IND_JioCricket
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
-#EXTINF:-1 group-title="sports" tvg-logo="",WPL_JioCricket
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_wpl_s1_m1080324/master.m3u8
