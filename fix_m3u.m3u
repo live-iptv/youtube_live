@@ -890,7 +890,7 @@ https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaiK4V0hcvNph6gkwuUHqRE2Pbc0QB-wf_5WfUuegDTYHXTB5CLcaW8M&s=10", News7
 https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png",4K Sooriyan TV
-https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-104/5pwp-9xg9/playlist.m3u8
+https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-145/8xi4-iyac/playlist.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Tamil International" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/athavan.jpg",Aathavan TV
@@ -969,11 +969,13 @@ https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_t
 https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-4
 https://xtv.ooo:8080/live/check5732/check12092/167574.ts
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK MOVIES REBEL
-https://dl1.govdo.online/openload/8d0d22875d1351e7fbfae59061d2e29a/03c586f46a49a5126c17b154f515e35b20240322134000/aab3d0/8c092a/171113355RR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoDAQkYEENaBxtfGwcNAFAFCgkSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw8IBBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==5?dl=1
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK MOVIES kaaduvetti
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK REBEL
+http://103.161.34.171/movie/Sylvia/Sylvia/303916.mp4?token=ShJcU0BbQQNHDFIABwZQDlgAVAADUABWBFQDBFZdBVBVB1ECC1BbXVAbGBpEF0dcWF1vWQIXXlIBUVsGU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUUwUCBggYEENaBxtfGwUNDlYNDgoSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4NBxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK PREMALU
+https://cdn111.vembz.one/h7tocojwamlbu3tf6rvdl5h4rojxqd5bxi6owp3dqgc7yngbftu7cfxifopq/www.TamilYogi.red_-_Premalu_(2024)_Tamil_HQ_PreDVD_1080p_HQ_Clean_Aud_2_8GB_HD_720p.mp4
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK kaaduvetti
 http://103.161.34.171/movie/Sylvia/Sylvia/300338.mp4?token=ShJcU0BbQQNHWgZbDgFUCwkJVQYDBVwHVFYDUwZXAApQAQMKA1JXCVYbGBpEF0dcWF1vWQIXXlIBUlEEXUgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoDAQkYEENaBxtfGwcNAFAFCgkSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw8IBBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK MOVIES mission c1
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK mission c1
 http://103.161.34.171/movie/Sylvia/Sylvia/299076.mp4?token=ShJcU0BbQQNHDAxZB1cNDw0FVlFXUQYCUlYDDwBWAQUCUlcLVVBTDQAbGBpEF0dcWF1vWQIXXlMIW1IAU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoAAgEYEENaBxtfGwYJBVcCDwgSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw0NAxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png",OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
@@ -997,62 +999,6 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Tamil;Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU",VinmeenMusic
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1447261974648814809978949.png",Ridsys Tv
-http://rott.ridsys.in/riptv/live/stream28/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_150140314905777125097688.png",Tianaa Music Tv
-http://rott.ridsys.in/riptv/live/stream29/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/wp-17086796969802913656847092632986.png",AJK Movie HD
-http://rott.ridsys.in/riptv/live/stream27/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-882226.jpeg",Sai Media TV
-http://rott.ridsys.in/riptv/live/stream19/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1408372196991828466890990.png",Sky Sat HD Tv
-http://rott.ridsys.in/riptv/live/stream21/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240222_1308307776810734620895314.png",Mercury TV
-http://rott.ridsys.in/riptv/live/stream13/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-790106.jpg",Supreme Tv
-http://rott.ridsys.in/riptv/live/stream18/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_12425040563921818386525.png",MV Digital Network
-http://rott.ridsys.in/riptv/live/stream26/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1231231433488482345593315.png",Auro HD TV
-http://rott.ridsys.in/riptv/live/stream25/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1506044776162027257355144.png",NR 4K Tv
-http://rott.ridsys.in/riptv/live/stream32/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-254682.jpg",AJK 4K Tv
-http://rott.ridsys.in/riptv/live/stream2/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-262931.jpg",Kamala Media
-http://rott.ridsys.in/riptv/live/stream10/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-7095.png",Rainbow Tv
-http://rott.ridsys.in/riptv/live/stream5/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-619614.jpg",New Rina Tv
-http://rott.ridsys.in/riptv/live/stream3/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-322020.png",Ragava Tv
-http://rott.ridsys.in/riptv/live/stream6/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-613639.jpeg",Eye HD Tv
-http://rott.ridsys.in/riptv/live/stream7/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-877427.png",Sakthi Tv
-http://rott.ridsys.in/riptv/live/stream8/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-274696.jpeg",AMN Tv
-http://rott.ridsys.in/riptv/live/stream9/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-732539.jpeg",Deepam Tv
-http://rott.ridsys.in/riptv/live/stream11/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-391614.jpg",Metro Channel HD
-http://rott.ridsys.in/riptv/live/stream12/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-829178.jpeg",S Media Tv
-http://rott.ridsys.in/riptv/live/stream14/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-570579.jpg",Oscar Tv
-http://rott.ridsys.in/riptv/live/stream15/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1513155235672224057037617.png",Neeyam Tv
-http://rott.ridsys.in/riptv/live/stream17/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-848691.jpg",JVR TV
-http://rott.ridsys.in/riptv/live/stream1/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-232616.png",Jai Krishna Tv
-http://rott.ridsys.in/riptv/live/stream4/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1231425262128467472063326.png",V Tv
-http://rott.ridsys.in/riptv/live/stream24/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1502362611035553233464830.png",Tianaa Kids Tv
-http://rott.ridsys.in/riptv/live/stream30/index.m3u8
-#EXTINF:-1 group-title="Tamilm3u" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_134228487243799217012177.png",JVR Media Tv
-http://rott.ridsys.in/riptv/live/stream31/index.m3u8
 #EXTINF:-1 group-title="Tamilm3u" tvg-logo="http://nammaoorutv.com/dashboard/upicons/iworldtv%202_00416.png",Iworld TV
 http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamilm3u" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(13).png",Kanchi TV
