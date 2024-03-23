@@ -968,7 +968,21 @@ https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_t
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-3
 https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-4
-https://xtv.ooo:8080/live/check5732/check12092/167574.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/303597.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-5
+http://starshare.live:8080/live/Sylvia/Sylvia/303593.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-6
+http://starshare.live:8080/live/Sylvia/Sylvia/303594.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-7
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd|license_type=clearkey&license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-8
+https://rftv.wtf/tp/tplay.mpd?contentID=1033|license_type=clearkey&license_key=https://rftv.wtf/tp/tplay.php?contentID=1033&key
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-9
+http://starshare.live:8080/live/Sylvia/Sylvia/303599.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-10
+http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK REBEL
+http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK REBEL
 http://103.161.34.171/movie/Sylvia/Sylvia/303916.mp4?token=ShJcU0BbQQNHDFIABwZQDlgAVAADUABWBFQDBFZdBVBVB1ECC1BbXVAbGBpEF0dcWF1vWQIXXlIBUVsGU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUUwUCBggYEENaBxtfGwUNDlYNDgoSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4NBxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK PREMALU
