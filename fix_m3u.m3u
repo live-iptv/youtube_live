@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 group-title="" tvg-logo="",Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title=" group-title=" tvg-logo="",QURAN MECCA HD
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 group-title=" group-title=" tvg-logo="",QURAN MECCA SD
@@ -189,8 +191,6 @@ https://cloudstreamer.site/karnan/vanaviltv.m3u8
 https://ipcloud.live/ctn/magalirtv.m3u8
 #EXTINF:-1 group-title="1Cloud" tvg-logo="https://i.ytimg.com/vi/Maj4S6J99Nw/maxresdefault.jpg",Strawberry TV
 http://ipcloud.live:8080/strawberry/strawberrytv.m3u8
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716",CRI: STAR SPORTS TAMIL 1 HD
-http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png",Lourdes Tv
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1221547118721096622857530.png",Arulvakku Tv
@@ -961,10 +961,12 @@ https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 group-title="Tamil NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a",Polimer News TV
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL 4K CRICKET-1
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-2
-https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/9722.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303590.ts
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",IPL  Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303591.ts
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-3
 https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-4
@@ -981,7 +983,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=1033|license_type=clearkey&license_key=h
 http://starshare.live:8080/live/Sylvia/Sylvia/303599.ts
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="",SAT-SK IPL  CRICKET-10
 http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
-#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK REBEL
+#EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK VITHAIKARAN
 http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 #EXTINF:-1 group-title="Tamil Streams Rasi" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg",SAT-SK REBEL
 http://103.161.34.171/movie/Sylvia/Sylvia/303916.mp4?token=ShJcU0BbQQNHDFIABwZQDlgAVAADUABWBFQDBFZdBVBVB1ECC1BbXVAbGBpEF0dcWF1vWQIXXlIBUVsGU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUUwUCBggYEENaBxtfGwUNDlYNDgoSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4NBxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
