@@ -1,37 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077423/ei/z6w5ZqDJLqn92_gPhsSbuAw/ip/172.183.58.167/id/ZdN6W0yDSrE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIga7Ng8IHj8OPOlXr1KKjq3rlQlpjMle6EDU0z2LJmXO8CIQDQS5v01F10SMXI0FBVXNeTIqQgEJvKq0W-ttjjrVLbpA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077424/ei/0Kw5Zs_0FLKW2_gPteyvoA4/ip/172.183.58.167/id/-vjABtLhzos.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJOAu4kUIo6B3gVrxDp5KacU-44IPA_5t5EnbPHMETUsCIQDTiTXDp7Hb-LEzq0FnSBQ9dcQB_XZOePwbMmckJ5v0kw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077424/ei/0Kw5Zp_PNqmM2_gPhYuNmAo/ip/172.183.58.167/id/NQXcIBu1j_Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSM--xGHtd4ouCw0aY2ITWuDcGPBhAvfLYkc8773VZXsCIQDFLvKqH8J8an5-YU-I7QdD6MCzPz-mkq9rBWd2KLv1Ag%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077425/ei/0aw5ZuCoJZ-Glu8PguWyiAc/ip/172.183.58.167/id/NBNY6cugpIo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ9x8pKs0azMDPGbtuP80ze49pNmAnA-keYWG4D4tbeQCICeuFLSMh9T_3LMfknt4g3G4JsS2Oj-nee5WDElnUx2l/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077426/ei/0qw5ZuSGCfKulu8PrsyugAY/ip/172.183.58.167/id/ctiRcoh9Qec.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL6ZYdfsS8k4K1PYfBqhP0Lry4LJjcvosHF3ks55x5ViAiAzFP5RwhCk6Ek69jSEGLIMD1gEz2tX4qkM9xWkGjkbtw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077427/ei/06w5ZtKLE7qXlu8PsN2q2A4/ip/172.183.58.167/id/XvgyJiujwvU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIbvHalH4KEERnu16Jk9p_3aZbIw0mNpn4dxbmO25Kt8AiEAws0gmZjTqoTp_E1B8fjxDxhNpBLk2DnEUhCZFQbZivw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077427/ei/06w5Zra_NLz-2_gPsZCW4Ao/ip/172.183.58.167/id/WFDbJY0eBGI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP0K-_p3edPVi6Zvvs6KmnGY0UrNSLRraJRIX6Y60-NeAiEAg9NC47Ka2750qH89Iv0FCCMzu2t3ud6BFT9iuOg6oc4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", PJ Masks Official
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077428/ei/1Kw5ZtnCHqKLlu8PzfyS4AM/ip/172.183.58.167/id/32rdlyeuYH0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJwBCgugYZChis474YfZgH-T8gHZ7OXhdFrSrwvebh1uAiACb1zgol0xRaM3ak3wW4a2uZgxKypika1oQKPbJlJy0Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OyXFA4n.png" tvg-id="", Peppa Pig Français
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077429/ei/1aw5ZoP2CsWLlu8PkJS0uA0/ip/172.183.58.167/id/9GLaXrkAV50.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALocdxof-IsFHN7zPNRZzXBdmgriMev4WDwsosMbxg6oAiEAoqKcayOmHSMECC5soaO0HM-LKCyrr5Yade1_YiJ2imw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", Pyjamasques Français
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077429/ei/1aw5Zqa9LuGulu8PrsSVgAQ/ip/172.183.58.167/id/MEqEFxlP2KE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL_p_doIZ-h0njhiuDe8Hq5L1NCSJF1GMeNTGOFY-t7TAiBzPEsWIj0Nc2Y4LV8V4X8jpij40dqmSBoYuHIoF2WYSw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Xf48KB9.png" tvg-id="", Barbie
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077430/ei/1qw5Zsu3GabVybgPvty66Ak/ip/172.183.58.167/id/d1sQX4-r60s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK7H2vweQyMZDio_V4bP8f2Ug9BHqeSD80urci5DC4SECIHERkGA8V5dKHE2ZD0w-KhqXv29Q8fYcACWdsOv4mBqd/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715077431/ei/16w5ZtydDbOLlu8PoNqriAk/ip/172.183.58.167/id/XrU2vrSsrv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLTZqnWJHMzx8I5RRh6goLWKxA05hxCMvduEGtSdB8CwCIEto-5N1Ra-SZU5mFXlS3CqCM0mXVXzgzqR5U0AyCsay/file/index.m3u8
