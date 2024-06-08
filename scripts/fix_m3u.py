@@ -38,14 +38,14 @@ def fix_m3u_from_url(url):
             current_entry = None
 
     # Verify if URLs are reachable
-    reachable_entries = []
-    for entry in entries:
-        try:
-            url_response = requests.head(entry['url'], timeout=5)
-            if url_response.status_code == 200:
-                reachable_entries.append(entry)
-        except requests.RequestException:
-            print(f"Skipping unreachable URL: {entry['url']}")
+    reachable_entries = entries
+    # for entry in entries:
+    #     try:
+    #         url_response = requests.head(entry['url'], timeout=5)
+    #         if url_response.status_code == 200:
+    #             reachable_entries.append(entry)
+    #     except requests.RequestException:
+    #         print(f"Skipping unreachable URL: {entry['url']}")
 
     # Sort entries based on group title
     sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
