@@ -54,5 +54,5 @@ def fix_m3u_from_url(url):
         print(line)
 
 if __name__ == "__main__":
-    m3u_url = 'https://raw.githubusercontent.com/manisat30/Sat/main/BALAVIDEO.m3u'
+    m3u_url = 'https://raw.githubusercontent.com/manisat30/Sat/main/DSC.m3u'
     fix_m3u_from_url(m3u_url)
