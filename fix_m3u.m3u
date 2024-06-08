@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220",SKY MUSIC TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9",MINNAL TV
@@ -1329,6 +1329,66 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_0958177649308844459586555.png",POLIMER NEWS
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="",Weapon 2024 (cam) use mx vlc player
+https://dl2.hotshare.fun/Weapon_2024_720p_HD.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",HARAA 2024 (cam) use mx vlc player
+https://download.wetransfer.com/eugv/6357646d591783cfcc788d7dbbdcf1ff20240607214411/25b59ea1ddbf305482ac5c7890e8d63a258f355b/Haraa%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTc4MzI3ODQsImlhdCI6MTcxNzgxODM4NCwiZG93bmxvYWRfaWQiOiI1ZjQ4NzhhYS00ZmI1LTQ3MWUtODg2Mi01YmIzNGI0YTE3ZTciLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.ZnkjjQQKBT1hm5LvMwg0CWhDxieDlH-ZMNww4Q7g-k4
+#EXTINF:-1 group-title="Others" tvg-logo="",கருடன் Garudan (2024) (Cam)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343225.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",ஹிட்லிஸ்ட் HIT LIST (2024) (Cam)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343235.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",THE AKAALI (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343838.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",KANNI (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340698.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",VARSHANGALKKU SHESHAM (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/345777.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",THE BOYS (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/332642.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",BADE MIYAN CHOTE MIYAN (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/345770.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",ORU KADHA SOLLARTTAA SIR (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/344890.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",MEENDUM THEDAL (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/344889.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",BOOMI ENNA SUTHUTHEY (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343221.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",BOOMI ENNA SUTHUTHEY (2024) (FHD) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343183.mkv
+#EXTINF:-1 group-title="Others" tvg-logo="",ORU NODI (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/342688.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",WATCH (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/341040.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",ஒரு நொடி ORU NODI (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/342688.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",VEERAM (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340824.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",ரத்னம் RATHNAM HD (2024) (TAMIL)
+http://xtv.ooo:8080/movie/105578/105578/378227.mkv
+#EXTINF:-1 group-title="Others" tvg-logo="",RATHNAM (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/338704.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",FURIOSA: A MAD MAX SAGA (2024) (TAMIL)(CAam)
+http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/339184.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",FURIOSA: A MAD MAX SAGA (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339184.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",PT SIR (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339863.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",SAAMANIYAN (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339864.mp4
+#EXTINF:-1 group-title="Others" tvg-logo="",LOVE NATURE 4K HEVC (NEW)
+http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
+#EXTINF:-1 group-title="Others" tvg-logo="",AXN MOVIES 4K HEVC
+http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
+#EXTINF:-1 group-title="Others" tvg-logo="",STAR MOVIES 4K HEVC
+http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
+#EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
+https://woobl.ru/hls987/Rentv_international.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="",RU: PEH ТВ HD REN TV
+http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
+#EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
+http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
+#EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="PERAMBALUR" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17092425948952732600585428669465.png",MKP TV
 http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:-1 group-title="PERAMBALUR" tvg-logo="",S TV
