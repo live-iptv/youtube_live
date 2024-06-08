@@ -1,5 +1,6 @@
 import re
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def fix_m3u_from_url(url):
     # Fetch the M3U file content from the URL
@@ -37,15 +38,23 @@ def fix_m3u_from_url(url):
             entries.append(current_entry)
             current_entry = None
 
-    # Verify if URLs are reachable
-    reachable_entries = []
-    for entry in entries:
+    def is_url_reachable(entry):
         try:
             url_response = requests.head(entry['url'], timeout=5)
             if url_response.status_code == 200:
-                reachable_entries.append(entry)
+                return entry
         except requests.RequestException:
             print(f"Skipping unreachable URL: {entry['url']}")
+        return None
+
+    # Verify if URLs are reachable concurrently
+    reachable_entries = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in entries}
+        for future in as_completed(future_to_entry):
+            result = future.result()
+            if result is not None:
+                reachable_entries.append(result)
 
     # Sort entries based on group title
     sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
