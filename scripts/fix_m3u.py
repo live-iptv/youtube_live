@@ -49,9 +49,9 @@ def fix_m3u_from_url(url):
                 reachable_entries.append(entry)
         except requests.RequestException:
             print(f"Skipping unreachable URL: {entry['url']}")
-            
+
     # Sort entries based on name
-    sorted_entries = sorted(entries, key=lambda x: x['group_title'])
+    sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
 
     # Write the sorted M3U content
     sorted_m3u_content = []
