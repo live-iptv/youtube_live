@@ -44,7 +44,7 @@ def fix_m3u_from_url(url):
             if url_response.status_code == 200:
                 return entry
         except requests.RequestException:
-            print(f"Skipping unreachable URL: {entry['url']}")
+            print(f"")
         return None
 
     # Verify if URLs are reachable concurrently
