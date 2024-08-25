@@ -58,7 +58,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724595848/ei/J-rKZrnaOvC3kucPoYSiKA/ip/20.161.78.59/id/p2IaTa4hySc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9iPa0pZeSf19x5V1RNxo4_r9PWTzRSNaqDtIyFYulSFb-wglOzvc5D2-LnE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXqLOkhOxTZjXhAhyfuVt2yvDlwYfseDmUOXXm6lTPIICIA5EoAtaud8YAdAZCAAV9dgE3z-L0ixn3HuXdxGpGdVe/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
