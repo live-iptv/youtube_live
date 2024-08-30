@@ -73,7 +73,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725049220/ei/JNXRZryYKcWslu8P9KLzwQk/ip/172.183.39.70/id/n3i9d7yFGGM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9s2LYgEiGCP9NIUlzSPLLQLdnb1wSNLHBk90gWLAzLZZn4s8kUKo6jZPXoc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMZ-Ym4_Vhr-gGTtQ7WzTzAjIilKVE9JVwnUOHZobxRYCIHHOVzDp3PeKlfGIDGWs5MBPHpp0GTLy7zYTsbyj2bNn/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
