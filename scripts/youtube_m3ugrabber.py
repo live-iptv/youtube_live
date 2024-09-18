@@ -21,14 +21,10 @@ with open('../youtube_channel_info.txt') as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             response = s.get(line, timeout=15).text
-            # Using string operations to find .m3u8 links
-            start = response.find('https://')
-            if start != -1:
-                end = response.find('.m3u8', start) + len('.m3u8')
-                if end != -1:
-                    link = response[start:end]
-                else:
-                    link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'
+            print(response)
+            m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
+            if m3u8_links:
+                link = m3u8_links[0] 
             else:
                 link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'                    
             print(link)
