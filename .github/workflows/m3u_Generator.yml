@@ -46,9 +46,9 @@ jobs:
 
       - name: Set up Python
         run: |
+          brew install pipx
           python3 -m venv path/to/venv
           source path/to/venv/bin/activate
-          brew install pipx
           python3 -m pip install requests
 
       - name: main
