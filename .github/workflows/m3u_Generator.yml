@@ -48,12 +48,12 @@ jobs:
         run: |
           brew install pipx
 
-        - name: Set up Python
+      - name: Set up Python
         run: |
           python3 -m venv path/to/venv
           source path/to/venv/bin/activate
 
-        - name: Set up requests
+      - name: Set up requests
         run: |
           python3 -m pip install requests
 
