@@ -44,12 +44,18 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
-      - name: Set up Python
+      - name: Set up pipx
         run: |
           brew install pipx
+
+        - name: Set up Python
+        run: |
           python3 -m venv path/to/venv
           source path/to/venv/bin/activate
-          pip install requests
+
+        - name: Set up requests
+        run: |
+          python3 -m pip install requests
 
       - name: main
         run: |
