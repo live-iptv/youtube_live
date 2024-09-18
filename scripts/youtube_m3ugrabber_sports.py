@@ -12,10 +12,13 @@ if 'win' in sys.platform:
 def grab(url):
     response = s.get(url, timeout=15).text
     m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
+
     if m3u8_links:
-        print(m3u8_links[0])  # Print the first m3u8 link
+        link = m3u8_links[0] 
     else:
-        print('https://live-iptv.github.io/youtube_live/assets/info.m3u8')
+        link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'
+        
+    print(f"{link}")
 
 print('#EXTM3U')
 s = requests.Session()
