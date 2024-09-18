@@ -25,8 +25,8 @@ with open('../youtube_channel_info.txt') as f:
             if m3u8_links:
                 link = m3u8_links[0] 
             else:
-                link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'                    
-            print(f"{link}")
+                link = 'https://live-iptv.github.io/yinfo.m3u8'                    
+            print(link)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
