@@ -17,6 +17,7 @@ with open('../youtube_channel_info.txt') as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             response = s.get(line, timeout=15).text
+            print(response)
             m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
             if m3u8_links:
                 link = m3u8_links[0] 
