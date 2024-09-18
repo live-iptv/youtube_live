@@ -18,6 +18,8 @@ def grab(url):
     else:
         link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'
         
+
+    os.system(f'curl "{link}" > temp.txt')
     print(f"{link}")
 
 print('#EXTM3U')
