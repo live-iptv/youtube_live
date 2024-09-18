@@ -48,8 +48,9 @@ jobs:
         run: |
           python3 -m venv path/to/venv
           source path/to/venv/bin/activate
+          brew install pipx
           pip install requests
-          
+
       - name: main
         run: |
           pwd
