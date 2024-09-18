@@ -3,6 +3,7 @@
 import requests
 import os
 import sys
+import re
 
 windows = False
 if 'win' in sys.platform:
@@ -10,29 +11,11 @@ if 'win' in sys.platform:
 
 def grab(url):
     response = s.get(url, timeout=15).text
-    if '.m3u8' not in response:
-        response = requests.get(url).text
-        if '.m3u8' not in response:
-            if windows:
-                print('https://live-iptv.github.io/youtube_live/assets/info.m3u8')
-                return
-            #os.system(f'wget {url} -O temp.txt')
-            os.system(f'curl "{url}" > temp.txt')
-            response = ''.join(open('temp.txt').readlines())
-            if '.m3u8' not in response:
-                print('https://live-iptv.github.io/youtube_live/assets/info.m3u8')
-                return
-    end = response.find('.m3u8') + 5
-    tuner = 100
-    while True:
-        if 'https://' in response[end-tuner : end]:
-            link = response[end-tuner : end]
-            start = link.find('https://')
-            end = link.find('.m3u8') + 5
-            break
-        else:
-            tuner += 5
-    print(f"{link[start : end]}")
+    m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
+    if m3u8_links:
+        print(m3u8_links[0])  # Print the first m3u8 link
+    else:
+        print('https://live-iptv.github.io/youtube_live/assets/info.m3u8')
 
 print('#EXTM3U')
 s = requests.Session()
