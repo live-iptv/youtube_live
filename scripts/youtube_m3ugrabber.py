@@ -22,13 +22,11 @@ with open('../youtube_channel_info.txt') as f:
         else:
             response = s.get(url, timeout=15).text
             m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
-
-                if m3u8_links:
-                    link = m3u8_links[0] 
-                else:
-                    link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'
-                    
-                print(f"{link}")
+            if m3u8_links:
+                link = m3u8_links[0] 
+            else:
+                link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'                    
+            print(f"{link}")
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
