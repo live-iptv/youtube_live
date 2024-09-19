@@ -18,7 +18,6 @@ with open('../youtube_channel_info.txt') as f:
         else:
             response = s.get(line, timeout=15).text
             m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
-            print(m3u8_links)
             if m3u8_links:
                 link = m3u8_links[0] 
             else:
