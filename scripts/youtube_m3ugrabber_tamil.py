@@ -16,7 +16,8 @@ with open('../youtube_channel_info_tamil.txt') as f:
             tvg_id = line[3].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
-            response = s.get('https://corsproxy.io/https://www.youtube.com/shorts/GAWOvylbszw{line}', timeout=15).text
+            response = s.get('https://corsproxy.io/{line}', timeout=15).text
+            print(response)
             m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
             if m3u8_links:
                 link = m3u8_links[0] 
