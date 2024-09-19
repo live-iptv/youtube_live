@@ -47,13 +47,11 @@ jobs:
       - name: Set up Python
         run: |
           python3 -m venv path/to/venv
-          echo "VIRTUAL_ENV=path/to/venv" >> $GITHUB_ENV
-          echo "PATH=path/to/venv/bin:$PATH" >> $GITHUB_ENV
 
       - name: Install requests
         run: |
           source path/to/venv/bin/activate
-          python3 -m pip install requests  # Install only the requests library
+          python3 -m pip install requests  
 
 
       - name: main
