@@ -1,14 +1,28 @@
-import aiohttp
-import asyncio
+import requests
+import re
+import http.client
 
-async def fetch(url):
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url, timeout=15) as response:
-            text = await response.text()
-            print(text)  # Print the response text
-            return text
-
-url = 'https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live'
-
-# Run the async function
-asyncio.run(fetch(url))
+print('#EXTM3U')
+s = requests.Session()
+with open('../youtube_channel_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+        else:
+            response = s.get(line, timeout=15).text
+            print(response)
+            m3u8_links = re.findall(r'https://[^"]+\.m3u8', response)
+            if m3u8_links:
+                link = m3u8_links[0] 
+            else:
+                link = 'https://live-iptv.github.io/youtube_live/assets/info.m3u8'                    
+            print(link)
+            
