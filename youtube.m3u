@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730796048/ei/sIUpZ9TlA_HeybgPjOi2SA/ip/13.105.117.172/id/qTer7vRZaqM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApATxWTIp6c9gijjgujWmgjY5C9WA_bM5OG4ziQEEl7LjzrrdZDIcJ7w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJqgwPoO6cmHhxn8Qt2QdqZgB11bUq60vtIGrnY4OAfmAiBacAMG_v6ag9RHecgetj-UZG3qi0awXexNsc4mLxqRZQ%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
