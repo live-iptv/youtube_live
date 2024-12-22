@@ -34,4 +34,4 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734905348/ei/pDloZ7edC5OVsfIPx-aBeQ/ip/13.105.117.154/id/ZNXcPVD8Ih4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCpAPtVqtUgIiOAqJ0_tEjVdTF9iO5A0lczul-dZT9uD-Tk_snCDEft9ohI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQXd7b8uHlEawfc4olxrEKluVmX-5daF3RzH1qJZMscYCIQCksyTS1FVz2hG3fB-uqUPUMP_KWe4HtWi3FP1I58y1OA%3D%3D/file/index.m3u8
