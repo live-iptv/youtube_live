@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734999105/ei/4adpZ6_YEpapsfIP5rW78Aw/ip/13.105.117.241/id/hOMveY95p5w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUJQkv73awYenTuSj7wx1ZRHhcfukoHsIC0FSNgW0VerhiGFlTlRaHUdQYYs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFMZ3DkEgKm1Enx8_G6X056UzFsDRwndFrFmfyJsqRc0CIGONt6Rjoq10WSBZ2WUJsQE9P9UnpU1-g_1n-4KAClAY/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
