@@ -13,13 +13,13 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735085479/ei/R_lqZ_fsLZb3sfIPita6-QQ/ip/13.105.117.136/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCXnACUy5gFtitb9Ri-UDuu_VRlqOfskOkDb8VFNVLZmqlIgMlLQPnDfoLc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgL_Kho293IQYSBTUMoZa5tzJQ7MMtmbQvuDBeVHa84xcCIQCXVpSi50Kkpb99IwoOax2DV6svEU8kG9UIsYyCKdY61w%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg" tvg-id="", Raj News Malayalam
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg" tvg-id="", 24 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735085480/ei/SPlqZ6XGGoOTsfIP7-WpmA0/ip/13.105.117.136/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCifrg9uJH1tAICXRKmJ1EeMKtQoohLfUJXgKxQaW-EZ128DV_td3NsuyQY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXDlmUuDv0IzE5j3h2qsHJtzUcW14GJ6TZySWW-hgracCIBQuGdIidFy6CIAtv3X1rBxkHn76wCY1L60csiqyVNZ7/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -52,4 +52,4 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Malayalam Songs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735085486/ei/TvlqZ-DbHZ3CsfIP0YXniQ0/ip/13.105.117.136/id/mGzINGsnwGI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUIPnh0mPQsOKhTyMwj2YJgnV13LfWPlDE5IkF5_WJt-GkwlTOs2YvUa0yHQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBSGYxTx_Gde3ItwByLJ1hjf9X82ac7l-rpiKQJP4ZW0CIHkQz0lp1hAKkFC1WOaHV5vrMeHMJfNSoemcNY2r1QVj/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
