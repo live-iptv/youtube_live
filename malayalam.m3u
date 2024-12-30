@@ -13,7 +13,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603884/ei/TOJyZ-LNApv5sfIPv5j2oQ0/ip/13.105.117.239/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357436/txs/51357435%2C51357436%2C51357437/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUIYZB9UGT6YftmYIEB9-plTp7Bj1OmG6OvbWlzh9qg_buxAMPGF4EHaC0LY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOBxL3BkDlH0D7R-dS8CoIplj__etfzYkXFliv7DYghCAiEA5m-iWpwqG2YJTZUfk0nnkyhWZtr28H_vip5AWEr5n34%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg" tvg-id="", Raj News Malayalam
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -28,7 +28,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cFX8iLy.png" tvg-id="", News 18 Keralam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735603886/ei/TuJyZ9_1IMW_sfIPlvi56Q4/ip/13.105.117.239/id/HdZUzlNmU0E.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357436/txs/51357435%2C51357436%2C51357437/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUFBZzNwUp4MJp4UJ1xp-TehpOZ5kItau4fC6zPp6M6zuNXXWuAt8Hn66O0c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANEh--sHX7o2SVHKM_iHzx2XgOzKgIQggLM8LPqN3oUrAiBdxCmgi2M6i93XkEsd13WD3B8nXXWsKnhRfIDFIgUyuA%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WE0PXAP.png" tvg-id="", Kerala Vision News 24x7
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
