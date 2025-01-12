@@ -25,7 +25,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="", News18 TamilNadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736719734/ei/FumDZ-eINsm8sfIPo_zOwQ0/ip/13.105.117.240/id/zsGizT6N4FY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-N9A1TkpAzpqmR9r_l0eVSeyWj4YxcdbEKEUJQ8wNnAYRgJ4EqzSzOn_D3RywijtIv3xTdufbxS/spc/9kzgDdS8HPepUzEk-WIXmi20z2KOMebH6AdHCgHSPb5vzPKTBogs7oF2y3BRojg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEfvLKLvFsCPfyqZpRwXSSRI1ppY7plAHKmNv74O0brkCIQDQjRco3At8ofVOEa-HEPd7lP_xNeaApc7Vsi7HnkFi7w%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/is94CQV.jpg" tvg-id="", 1Yes News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
