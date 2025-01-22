@@ -70,13 +70,13 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737598142/ei/XlCRZ5D8HaPzsfIPsqGz0A0/ip/13.105.117.190/id/Ap-UM1O9RBU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379624/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MAlQtmrUXFSm9giqabpOGx047WO27khRa_lhqbfMEkyuUEPgIeChd7F8stePRCSxQZp0qEq-z3/spc/9kzgDfs0AA829w1BOnFBPcRkwP3dWJWibQM2dV8zhSuXl2LguVM2Eekg6f3H1Xk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEfxvWCAQauqf0dEixCarFW61poo_DXvGpazanuFid3sCIQCOgxt_EHJzW7TiaXr9GoTKNuI9nqD22CchLE6aT-aQVQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737598143/ei/X1CRZ4vvMKyYsfIPkZij8AM/ip/13.105.117.190/id/qT6hiV3bnVI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379624/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NZXhBAOvJkHjBf_hG6Ksm0MmXcaqJW-ttjmnrWUrvKigl9d55keJx2d2WcuB9GMODyq1OEr4ga/spc/9kzgDYdcAqKlQD__qxikCWO_oyP9jpaY6Ne0VJnpgYxZKJ2a5RfHbjsYhe-djeY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALP4sjUC8UslVIsyN8vecWXIZ7K9YLvPXzHl908JtIzQAiASwBTj6Pomu-OH1zgFChgx9LIvNlFd6e35-ns28qAjTw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sXq5pev.png" tvg-id="", Al Jazeera English
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -109,7 +109,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737598150/ei/ZlCRZ821MtjXsfIPzfvd0Qk/ip/13.105.117.190/id/f0lYkdA-Gtw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379624/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MC7op0PPv1yNAOl18Ry9gmHI-wk7Cp_MeiY25dHk9qj288bpPy_up1tXFOHwQeXaLIcpxmO55z/spc/9kzgDT_xM9kLfXYApkkmKRkt-6orY7bvUUa2sYjYWl24Zcc_-kLlFtAHEXOhfmo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAONyiAL0_rvZmQCAQmOel4IEM5FKx8PfDeeiDw6kwVD_AiEA-n2SQ0cNkXmgAtRfiL8BSbhRhLdHzyskJ484d5gifHc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eXepXQC.png" tvg-id="", Yahoo Finance
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -124,7 +124,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/xWg3Tfn.png" tvg-id="", IndiaTV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737598153/ei/aVCRZ5G6NYTXsfIPm7eGwQM/ip/13.105.117.190/id/-pH37QYYd1U.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379624/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MX3s_PUK94zOgLpQZ2A3eeowTZ1PhklA5vLO7_Tx4sWozXn241JmAq-5yimfxTwFhO5qMSIbzp/spc/9kzgDZihrIfJ3kJxMwDl24cexflyHk9DTlFZsCMNCPy13UyvnnYhO55awmAusNQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSE9OMu1Lm7syuSX5HXyzViuwA__nyV9GMX4Hbl-3HNcCIA52Cso7GZobd9y1IRlfzqJX0GCzVP1v3urpuztFLrp8/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/VwzlPXa.jpg" tvg-id="", Republic Bharat
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
