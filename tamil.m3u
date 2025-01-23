@@ -37,7 +37,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737605299/ei/U2yRZ6umBqHzsfIP7uaV2Q0/ip/13.105.117.158/id/iNj1Pg5Sv0c.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51371270/txs/51371269%2C51371270%2C51371271/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MPZKHpiIezbUdrlgVDgT9XJL1dU3IJSWF4Uae8Hq2rsQt2iz1zxrTkbwYO3nx3Rx8IbkaP3mCv/spc/9kzgDdscGFyVfG6d4qr5iZucW1JKaKSVMSO-bQtvg8ATD0CZ9lktFaQ8uWTzrdw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOeQiPebkaDLnuvIVEO08-gsdo_hLnGrgod5JUtdCHgzAiB8XDhe-hE7fH0ZUYbDK9r5Obpv6M4x-qAXmp4QNyHuIg%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
