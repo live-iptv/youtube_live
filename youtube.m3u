@@ -136,7 +136,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/q5HR6p1.png" tvg-id="", Zee News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741243249/ei/Ee_IZ-qDGrGBkucP9IaQgQU/ip/13.105.117.111/id/j5jiP3XM3to.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yxa4fAHMOK-WzEfEAZKIN93mHxhQuk4mhtDh-r-KfvkNx_ZhIvWF_kINqoSQ2wQzySZSRML82c/spc/RjZbSdbIiNvFRGaODvHxYuS1CnlOxXoP0_YTPmC4iKrikIlG0D4mnizYvAYKBW0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51411871/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ4bX4yTtBeL3eM26GnJli2wt3yK9GZFdvnZsokFEsnYCIGsrqPcE7pzGWkbnb3maWfbkFBqoW8OJ7SIw0zlKSm3S/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/KQMMRmD.png" tvg-id="", News18 India
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
