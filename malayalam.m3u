@@ -46,7 +46,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/broUGMZ.jpg" tvg-id="", Youtalk
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744157524/ei/9Gb1Z7DcAaPFsfIP-YinuQw/ip/13.105.117.238/id/3oJSzsS_Zlc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437493/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOm7ylGyblgQrMTd7O2HunETu3Kd9uGiIUExvaE0W0UWPdQNnGtgTjRdqj3kIbX13mM55lg6XqH/spc/_S3wKpn_21yyqIrUXqBzG59mKcA-2cpk0xchUmg33wSZPAeecF3EHltu34N_WuGdBPM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKktmx1gqoFSMWiI-OiAqrrQc-ejHBVOKimaqXbs5P_RAiEAy2zFU9ePSUQkyxQrKCb5HP3-X4SNhcJ0Mk94NWFiGGo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BZwCogl.png" tvg-id="", Shekinah News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
