@@ -184,7 +184,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/WE0PXAP.png" tvg-id="", Kerala Vision News 24x7
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744361816/ei/-IT4Z-PtLLehir4P3Pn0-AM/ip/13.105.117.229/id/3446A6FzW3o.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcM5y-JOvkrfZX9eH244_MFe_-9TdGZMJH4Omz42vVFrUehg0Jq45VFleD2moM9yUSj-IMlsHXPC/spc/_S3wKilXtiTEf1GrGNdSYjznrb_cD1vF6VEf6GPJlF3KpfAJ_Yx9-0zOjIq-47X3c5c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRlPBGe8iuVAH5TDhdgoTPBsjIWz8OF-FY6fsR0J8ORwCIQCp9ywKu1IrHnJFpuMw00uap4GtfK7cs5D3JF2pTov7mQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/BUK9hWL.jpg" tvg-id="", REPORTER
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
