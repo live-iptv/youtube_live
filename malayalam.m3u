@@ -1,49 +1,49 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", Asianet News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821388/ei/rAweaMPgEbz4sfIPxurEkAk/ip/13.105.117.178/id/Ko18SgceYX8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAakCKDrIeTZN2uXmTSaAKPzC8zSQ4ZVkHrqc-RwA8eL8E_-QXol2PawJkwhgtTrtimZjoP4LTxm/spc/wk1kZrpAIOm0LukQNdMpqNaVC30Fbcv6y71Ie2j0Jzc7RMbKzBuEAhE95MQNF2I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALTGYF9Vy7b-waEwhPWlNtWS-8p3jaEJt38qOPRj86ZhAiEAst6NWwNd9o4vDoYbJU-WqIUjzxv6r87qZSvurooFDCE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821389/ei/rQweaJa8IOeosfIPtbu1yQ8/ip/13.105.117.178/id/u7HmnED1TpQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYJ0NTr6eZZxwKKHjX_3rydRjdsO6n67CVvTSh3hwND4EDoRToPRpBYnD-ET8RXcvL8xZqfMcE5/spc/wk1kZqYzO-PLuSzhIWDjnVyn3F0i3r0OiDpMLB4TZBy2GjuOIM72aB8JeVGgt6MYSUw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge4s3LiDMYrJJI6GrUAjRmcnxPIHpQZ8QMVyIzUyQaS4CIE8kPB9zy2ePnqrkn3BUs3Bw8ivVezuu2OmV6ZThEUik/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R0RVItP.png" tvg-id="", Kairali News Live
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Zee Malayalam News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821390/ei/rgweaMCpNOH6sfIPyN7C6Qg/ip/13.105.117.178/id/bYNnlqnh92Q.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbp_r5bxZgCcqeDykRUlXRw1YG1HOuDwaciSMiv1-8JURAq1CCS6DvR43R0HYeB64NuU_5CPuUo/spc/wk1kZhg3Ne9KY6NVbnZlyX9TbtqKvuOFwGn0RP2-1SmVIAHUcywqoGllKL58FDv6bFo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPPI0YWkHhoSNqm9v5PNvD3Zuj1_UL3HbBf1EUX62zRjAiEA4vLuq-AtmqS2RA0C6rkbQ_ON5aXNMFR79uDiwrV-VPk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821391/ei/rwweaIi0Gq6RsfIP-fmR0A4/ip/13.105.117.178/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbz1IMXeDiT2xy6S_B9690kX19x_6seEigUco1y4tCSDJZCyqhsKIKqTkA2x2kPwnTdaxrQy9Kc/spc/wk1kZofrdikFKy4JkKoIj8oqYWqGlstYDBHbV3Bywfe2p61E3b_FRFHlzV2NCFwOGlI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUI7Vm83f6oMv72j2gG-t_PEbAQzU5GM1Uqg9XmCdILoCIQDhQ8aZi4v-hfzSbxD8eYGdJY_xbQ-Gme3h8HOzcoa3pg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg" tvg-id="", Raj News Malayalam
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg" tvg-id="", 24 News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821392/ei/sAweaJi7FZOksfIPnqjFwAc/ip/13.105.117.178/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYCgww0f840nicmFqSCNkDpibgZSFY2i6I8LFsvNA7YIxn3Pyd0jH-J0CODxmelRXud7qg949sz/spc/wk1kZpFeHBsfVViVZiBDlQzK7cb-tRKsM1C6Z6m4NuOa-2tbyTBPDFP_XzgsjBrbCmM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgc-n_uzuD-cRgMlxmuSlinORdczR1SVZK4atBPfE9m6gCIQCFC4cZS8L8AkgyUVPqJF7QvP2MivBw0nFaPBXhSVADtw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821393/ei/sQweaJOrBv2KsfIP6rq4uA4/ip/13.105.117.178/id/DtisHrmtORE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAajo9ZjYrG5nbY7V85Rpu8L67CaQ96s5VgtOFtpFjhfKtPiYYEFGxhYhLe0SXVCk7Rty9Jtt0Ow/spc/wk1kZhVujezXpsQ1N1l2UmIvfr38Rl6rEwsnmlv_hCXmQoLL81upVicqvuLF6ZZtp74/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKMAbl187BFv0ZKO8nKBhpbKvIWWXs5KQ9_ztPC8VgLXAiBBAgpGgmCVIGMCcv-ntSM9P6CkoHpKRZ6MYcKdUky2hQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/lXJJBJY.png" tvg-id="", Jaihind Tv
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cFX8iLy.png" tvg-id="", News 18 Keralam
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821395/ei/swweaOtOspmx8g_7v86gBQ/ip/13.105.117.178/id/XSzh0188d3o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbRQamxvqkb79_Rye0l5-4wotNPS6DhUu5PdktSO0Q36UF8-R1FyDBpbbP0tlKUUv3saiAlpjBl/spc/wk1kZhOcT5m4Ns-LwAe1gApeWAeVVqq56jpJf3sif7amfiYgynFmvUNMIDskNxFQVoE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge31Vdnr4imIXCYg8ja8nUvlpljJsyv-d7ihKgAt_Y20CIGf9Cy9UbajE0p6izjV03WUsEUW7pZjVOGkAzFV9JDob/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WE0PXAP.png" tvg-id="", Kerala Vision News 24x7
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821395/ei/swweaPDtKuzzsfIP5a-6sA8/ip/13.105.117.178/id/3446A6FzW3o.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAa2aqTp1rq6X7UrAPwud2j_LiLAGiQEC76eOtMvbB43ycn99bUXCspBsiq2vfYE5jQo1Ulu5EJh/spc/wk1kZkpvJ_CelzxJBkfzQpdNtHMd93_U5Sk39M_6MWOij2ZB-TyuNhjDxGnLcjhK0GU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN-PvNW7GVwNGQFhIzpjKEYNXNHaOd7RP_C6QEBk0CqICIQCEDcOBhH-KJkbh0cq2jN16rEuBxVlzNqC9qxFvu5P10A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BUK9hWL.jpg" tvg-id="", REPORTER
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821396/ei/tAweaIerNMmLsfIP0fbauAg/ip/13.105.117.178/id/HGOiuQUwqEw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbgfNoeRRcTEAf_IAl9xPnTXzeF0S-hVb6as2Kv8FkoF0shencQz1vXyv-ZuB_L4rBILx6ouXY6/spc/wk1kZhLNuMTYJt98QM0jgR6vKcbJM0vV9-9T5ysEAXRj2zCG51Ss2HOiuoItNV9NPHk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKRC1GQuVa2zWRCupE5vIDGKrU1qaQoXf4W-dz2-BYLlAiAXxIYF6u0H9HhOBHec4jb1RqIjh0KwZHNE_-UzxLIWeg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oW2v0NQ.png" tvg-id="", Shalom TV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s2FYfJD.png" tvg-id="", Goodness TV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821397/ei/tQweaKf9MtrasfIPn8LYqQU/ip/13.105.117.178/id/ek0WSM3iDnA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYt_T8HBUniBxeS9aZ683hBgxTy2gMasd4wAQM8aNdC8S_6NGXmNp9P-HPd33r_nnv4Fg9lOXwH/spc/wk1kZoaae5yigqXy0IWM7q0pVbHdUc-hOvsqIunccasWFAMz_ZD2ms5pqH-b-6hb1a0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUATp3FqcWWUywDAfSBXwokUyutJ_eGl7YbGTm2Bmc8MCIGsphMjH7fNYvSZYvTtAYa5QPy3SgqsZ4Djg1R4hSroe/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1beRi2a.png" tvg-id="", POWERVISION TV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821398/ei/tgweaL6sMMCYsfIP5NuzwQI/ip/13.105.117.178/id/zKX5E6WbB0I.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAY754rls2sPZ7VG3damQKJSHrryfD9kyXmjr7Be4bMVc1UZB7NZ6sWLR-PS7Jiv4vcunYjfCCv_/spc/wk1kZrQxYDHR7Q3Iu8GlQBSfIVX0P96T_GamGhZgTM9PV5Q5X0cFmbUQOh9LtxKCwiw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMRiQCm_-JliiWHrhW9zP0QMEOIU9r8QY2rGXS28JOD3AiEA_bccOY0RsVnHaju6PBDDXauiBZ59L92gFfdgmP4Eebo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/broUGMZ.jpg" tvg-id="", Youtalk
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -52,4 +52,4 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Malayalam Songs
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746821399/ei/twweaPvrMJ_1sfIPiPS58A4/ip/13.105.117.178/id/mGzINGsnwGI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbXrO38ORB0_F4Y327r34CU85JChuf6Vk99pjnrsz-57uM1bEiY2bIwZwWGF9Lh9yGf3g9XuQtk/spc/wk1kZoLV2tq90WsEMXLP8XF6rUllLcaBQxlvoHK2cUOS0gRbcXN17A5hiXuutjF3peI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANGnbnj5KLZETEUeGt_yxSKX5jF8Q2BKIx1Lej_9g3L3AiEA54yfBhAUPAcXNu3vsnVpPAHRVH_rkwHdaa4mzBUlJIE%3D/file/index.m3u8
