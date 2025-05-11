@@ -13,7 +13,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ji5cykV.jpg" tvg-id="", M Nadu News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746954578/ei/8hQgaKmdIvKUsfIP_LTv0AI/ip/13.105.117.143/id/ihTZD39nBe8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477231/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAas1sFzJpv7D06uBYdyzBK1-Z2yz3177Hmj5TqbkpFEbQ5pw__hcjPAaBwt6snjut5NATow5t35/spc/wk1kZp-3SbAQ8lJrE9Z429iNrgfxeR5mTd314odFBa6zgFy8K3iHKZxToqddPfJ7AAk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51469037/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIsGa0LAXIqwbLs68oHT7-GHSr-4IpzKg4STiuBY84dECIBbBkuxPVT4WShNUEf1L6qRYXEZYft3omgKtSZLTu-Ze/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
