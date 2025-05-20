@@ -7,7 +7,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747714221/ei/TawraPnUKMH4sfIPtfCy8A8/ip/13.105.117.193/id/8bx578Sl2cU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAZTuK26ibub4ZIxHMn8JPIPCc6WZlm80SzkNdQ_APML2zrUD7p-kebpXJhpPBAg4vJGo9awOhHP/spc/wk1kZhCvS583tg2QUnEbMwyjGd2mrOVcpcOWwb9mCEFC6X6Kqa1UkAkNvauq6kpMCzU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466697%2C51469038/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXM05BExOuclRhh_7sAbzwC1AtLaJtxXsiZp4cYahqssCIQCCX8ZlUw7QOSP088DDG6CzDEfeC-1rjP1gEV2M3zu06A%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
