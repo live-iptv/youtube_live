@@ -64,7 +64,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750920416/ei/gJhcaJK3EtaRsfIP--OM-Q0/ip/13.105.117.170/id/xe3zxYFWyMI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNRJ7bAHLdN2L5p_Qqz4zYHjEUiB3gpuYbIaE4mJlk__mAvn7w9c5R-WAc1BEiHw0CkEtdqQXuP/spc/l3OVKXD_auxyDCG0vFITzv7oErqmhyuAHDAsBNht3mljZBQXkg8Mns1OwcZ6gCuB1ds/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKhF9AVGn7LI1D7ruMLeZbgdOSYIzc9C4H3KefvVJE95AiEAnGIMNVmEJn8Xx8OdgpTvDndEQd86STr8z1WiffKfT18%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
