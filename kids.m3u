@@ -4,7 +4,7 @@
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753266762/ei/6mWAaMHAFNLFsfIPvIW5mA0/ip/13.105.117.134/id/xwJ99IPsuf4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLOk9Ke9U5RJYMWGPuLdR2XNHwPhpNnyflvjVukeX4dsAJdPSuToerotNyaKlRHwQhtT2XvS2EZC/spc/l3OVKfBVeuJtPFs2t3sVNAqyClVAHnZqlNDsNk55zcJS-4g3k8BHApl78rfVGkabpY8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD_zSQflBuNC2LcOo-n71529nv7wiP83vJCKGz2-p8_oCIQCwCYLWhK7Jk-2Xsj4w0fPMfhNNeCI_GP0huNaO_r_uEA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
