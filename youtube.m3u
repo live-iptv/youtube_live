@@ -106,13 +106,13 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UmeRC9Z.png" tvg-id="", NewsX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753599352/ei/GHmFaPjrEbC1kucPxbTzaQ/ip/13.105.117.141/id/Aa8NeTlQVL4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPgzxNhJRYDGUlPTAOOsRq12Trj94Jh8rKTgO3TlCZr87ePhImvUbryFirchvwrw4RFlLFD63Zm/spc/l3OVKZhPcLgi-mLecX0Tzb6zwFQuFtUtcmrduvnu8P1ssg3T9ni9z3H3BDVLXDLQigo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPrmF_FnNREKWHDzcmfbpNGFgWs1UB6aqSvETStUk7trAiEAjmdNYnD3SuIMZ-CAa7vfDc7isZjZJJtzP08nSYukOPI%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eXepXQC.png" tvg-id="", Yahoo Finance
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753599353/ei/GXmFaO-PJ-LCkucPutec2Q0/ip/13.105.117.141/id/KQp-e_XQnDE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AY1jyLMuBYDRcjFbHpHqsPNzCvYfKdFwDn2hz-fyNGnMRPNE-3tMlOyStvDe1u2_z7MFg9zrrkb66S1w/spc/l3OVKRnn2WwmFpIZPtDMk7xuTo54otpIbhxuW7jYQ6jahC_C9P4Z2EPX4NKXgDSqHkg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMjRwWlCBtq5EUw0sFR5j1mU6LV9uGkP8bTq7l0iDo4XAiEA6P7UTABJRMDmHtWAbs9U_GZ18mxGyWTDiKQ9WHBBS9E%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/5J8K7qd.png" tvg-id="", DD NEWS 24X7
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
