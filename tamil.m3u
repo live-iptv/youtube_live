@@ -46,7 +46,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753748121/ei/Ob6HaJi5Erq8kucPoru8oAg/ip/13.105.117.178/id/0N_JvI35Q_0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNyGCFicQog3Tq03Tav7P1Svb8yrXYazV-JwAW9_fe3zAlZ1m5Az-sgMxhOckbe--RKJOTUnf_D/spc/l3OVKSuvzuUmazD5vYZBhQ4kuVcT-D-QhDMM1k-aZrqA6A4bj7UtEDhpYKMFEF5BcBE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLsoF8S2FuNeksm1Wf7fyDAqE-qsqIOjnOwoxtVF2L1kCIQDLsdpSpXvRga1QhfVTRPIgttpHB97XUEnYZ4MUY91NaQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
