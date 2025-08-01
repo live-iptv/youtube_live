@@ -214,7 +214,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/pR6xpNp.png" tvg-id="", ETV Telangana
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754093693/ei/HQSNaOuOIqjRsfIPtIDM8Qo/ip/13.105.117.146/id/MHVeUcd7vbs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLM07hfWnykjMzUOsYOd9q5fTnTxbQoZj4mzFbJNuMZIWHIU35lGd9YaYZfYdk_1Mn8H-rRc6Htj/spc/l3OVKZkbm2IcqOT82Ldmha1Vq6Y3uRrEx_1IoAK2jnVp2a6YSMYOnB_0DqQqgQ18uSw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYbYg0scuYdwMj7wJM3zmbcUlWIaG4rN2_3p_4dsH62ACIQD_Xa69fRqALwlUFhHeaf72zO3KPu0BqjXEEnkX0Jwg9A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/oF59Iqw.png" tvg-id="", ETV Andhra Pradesh
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
