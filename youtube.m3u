@@ -40,7 +40,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754396261/ei/BaKRaJ-nD_OLsfIP4JbN6QE/ip/13.105.117.239/id/1_E2ltMyy5s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNFnOX-Ptl-FkNZI9rZXv9G4jERtOluO0FQ3fqj_OnR0b-Qn2m_7VZmwkDQ88fMUKMSDldJ0J6n/spc/l3OVKVOZ4Obfdgu0ZCo6i6NVcevcXplzOrcIbv1IJ3Kc78Ueo5h0EjrzCZVAvDBjf-w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANl1ut7JFRtGw2UvGq27TF9rrvxEbAW5D-5qNl71Btr7AiEAploKPXZL92lp3NzLgMCsm9YdOaKDhbVexEJ4auWfeoo%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
