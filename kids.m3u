@@ -16,7 +16,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754993982/ei/3sCaaLvcD8SKsfIPr9y2UA/ip/13.105.117.222/id/2C55tp4mHlQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNJRVbv2o9JL00GIeKvSVqe349nbO-uEKGk1RUiHixMDVkwZJoQJLqs7LhQAcXiqnV-SxfCI9QL/spc/l3OVKeWmFvhvYebwN53scQw0GCwN-KNtkuAsfCowc0j5NGUOyl8A1APzgm2IHTbeoO0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPNBET0uUywk577ZvxlVpjM_iA12Mm-rLyR6HhPkqrX1AiA_GdKim4Z1fxgHby3Na7uLZ3uU0CRTXR57vPXoqO99vQ%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
