@@ -4,8 +4,7 @@ import re
 print('#EXTM3U')
 s = requests.Session()
 headers = {
-    'Accept': 'application/json',
-    'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 with open('../youtube_channel_info_sports.txt') as f:
     for line in f:
