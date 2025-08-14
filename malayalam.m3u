@@ -4,7 +4,7 @@
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755202248/ei/aO6daIC2JZTBsfIPiPnsmQE/ip/13.105.117.127/id/tgBTspqA5nY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLP67Y7MWN6kjev9bl59aiCK11U7R9BkDO331l_UHJplZaSjs7mDEIpzX19Sh-VIGVWT9r7J4n34/spc/l3OVKXdDWIj9r6B-Dc0BnwGKmV0A3foJMgCsZ6INZuPCWyvpEhNOdlj9YdjG3M2X9OI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM_jooVG5P_qWQzqmCI89YydNul7hZ37rlVpqg31H79SAiEAmVFERCPIbNvguooDFpw2tqdV7zRgmM5MwK5BUv7wx-Q%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R0RVItP.png" tvg-id="", Kairali News Live
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
