@@ -148,7 +148,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/Xr3cPT6.png" tvg-id="", Africa News (en français)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755389510/ei/5smgaPfwDdO62_gPwIaUWQ/ip/13.105.117.151/id/b6R9-7KZ8YM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNAfZSNPl3JQIYbub58dk_0CF2VxNpXb4ZblVMx-60z14ANGwehidNOOYknv60zV6uCBdKwAsK3/spc/l3OVKQcgLPn9J0xR1yAyQnQcSXIyGE0dqkpXS9iiGoRvnyRUbTB4kuVE7wg63PgTdJM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565115%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJnn6W1062ctLZj01BYOQj1MPfh64u3_8Xs5maC1oWjGAiBnkuP2Osx-NgMPCPfcaKvtai9myIm0BSrUKCMyjD3eOg%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/2kfVg4K.jpg" tvg-id="", Euro News (en français)
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
