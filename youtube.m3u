@@ -157,7 +157,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755547921/ei/sTSjaK-UKJn2sfIP5uKboAg/ip/13.105.117.195/id/tgBTspqA5nY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNJw3mKy7uu25efzXN_oP5LZPjHIffBXEvamByPt7QJb3uWsrFUDvQhLRGbpIKoFF3D3WWgM8rm/spc/l3OVKfNcHWZtN5WvAVm4yayM87zu9KdfkIc8ojEbl9dW3yTrSbTKVYliSVWAQPPAzWs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565115%2C51565682/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIcwscHG0d78w4hVtr23Z-IxqHUkvkWwC7qMku-k4jJgCID7rgQdzZPr5ChttgXKcFSi3-kwWs4PW8FElGLdZF1JZ/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/R0RVItP.png" tvg-id="", Kairali News Live
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
