@@ -154,7 +154,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", Asianet News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756433444/ei/xLewaJnJFd-zlu8PyY3BkQU/ip/13.105.117.133/id/tXRuaacO-ZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO4-c2Pjao2gfNdF6oNuAq60pyk2-65FABn-9Yd3vQ6yTDUbjSPPEKpYOZFiY3kGMSWxMqVEA0y/spc/l3OVKZt2ojpLuwcYCD0GHcCUC1AAdaEK5Bn5S5_GSOdhCw1NXFOp9f8iwlBl9C31QjI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514994%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbC7gWmei9esxlUEqwxUdtQg_4pCqqxrTNRE_HoR5GQ4CIQCFA_sN_3Wk08sz8HdrPyqGOVU6gS1RhnefFHzVMmJ4kg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
