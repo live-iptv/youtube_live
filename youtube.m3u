@@ -106,7 +106,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UmeRC9Z.png" tvg-id="", NewsX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756375872/ei/4NavaM6tMaChlu8PpOC9-QY/ip/13.105.117.133/id/IpFNj49tIQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548076/txs/51548075%2C51548076%2C51548077/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNGePsqCxafHYiYsypn15iQQcGm4UB1-M40_qT52EbssnDmW1ismxzYL7ySdl8rSP2_1cl27UUJ/spc/l3OVKeKsEQkvGlFAocIkXCdfApK8416niplPv-IMGsCSc8NPSdSdBGQQ_UiN3DtzfEY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOLGyymT4eDQq0iK5VKs1D4ia9wxHxox-xBsPvk3RmY8CIQDUOdG8pqqJAWklYxvP31v8lE7W1cR0nVVeu9PTuI7bBg%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
