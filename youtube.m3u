@@ -70,7 +70,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756975692/ei/7P24aKXCIMazlu8P6e_IqAE/ip/13.105.117.132/id/Ap-UM1O9RBU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPjWSAeDyPmauFEXVBmbvG1UjIB4B16Tcvt85fQoTDbq3lW6hTnXy1vi6vlsl8EjYZn-H5GjRHY/spc/l3OVKUPVDQ8y5191gvB6uDymKJKzIotvAeO9c277K8Y8xTzHnfctl2lsFgnDGN7-W7s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdT7-0DR67rqaIfmYsCi9YpOnEfU72O-UwVolapq6KBsCIDwqNoYq-gxlBSv-wIzJ2OtAq0UMDZl9fUs5CMGv2n_C/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
