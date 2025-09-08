@@ -127,7 +127,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/VwzlPXa.jpg" tvg-id="", Republic Bharat
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757390929/ei/8VO_aL6wIu2Olu8P4tOnOA/ip/13.105.117.159/id/aN4maCXkzow.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMhOL2dVmHRBrVVdEoggFPx5pubMtOboJABhwG2Q4WORZ5s8e4m7_QuTTC-nwzE4Z6tDG3ihp_k/spc/l3OVKVrLos4OR9AWkE0Xx6sLjNzntGZxnlCNTpqoDDlZwqXquAY3mynlxsYMMHixKbI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgP_nw7AsgFof1Ptlt86RTCCVATplpDUciZ8cNZ4jSN8YCIQCvvRlJS5cCl1ZepDi_Ur5WbCzf8tQ-PO8f6bCIdrk9zg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/pO4rzt2.jpg" tvg-id="", NDTV India
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
