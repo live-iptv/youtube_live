@@ -1,6 +1,7 @@
 import subprocess
 import re
 import shlex
+import sys
 
 print('#EXTM3U')
 headers = {
