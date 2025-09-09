@@ -1,6 +1,5 @@
 import subprocess
 import re
-import shlex
 import sys
 
 print('#EXTM3U')
@@ -14,8 +13,8 @@ headers = {
 def curl_request(url):
     """Execute curl command and return response text"""
     try:
-        # Build curl command with headers
-        cmd = ['curl', '-s', '-L', '--connect-timeout', '15', '--max-time', '20']
+        # Build curl command with headers - --compressed handles gzip automatically
+        cmd = ['curl', '-s', '-L', '--compressed', '--connect-timeout', '15', '--max-time', '20']
         
         # Add headers
         for key, value in headers.items():
@@ -24,12 +23,17 @@ def curl_request(url):
         cmd.append(url)
         
         # Execute curl command
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
+        result = subprocess.run(cmd, capture_output=True, timeout=25)
         
         if result.returncode == 0:
-            return result.stdout
+            # Try to decode with UTF-8, fallback to latin-1 if needed
+            try:
+                return result.stdout.decode('utf-8')
+            except UnicodeDecodeError:
+                return result.stdout.decode('latin-1')
         else:
-            print(f"# Curl error for {url}: {result.stderr}", file=sys.stderr)
+            error_msg = result.stderr.decode('utf-8', errors='ignore') if result.stderr else 'Unknown error'
+            print(f"# Curl error for {url}: {error_msg}", file=sys.stderr)
             return None
             
     except subprocess.TimeoutExpired:
