@@ -1,3 +1,55 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", Asianet News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R0RVItP.png" tvg-id="", Kairali News Live
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Zee Malayalam News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg" tvg-id="", Raj News Malayalam
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg" tvg-id="", 24 News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/lXJJBJY.png" tvg-id="", Jaihind Tv
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cFX8iLy.png" tvg-id="", News 18 Keralam
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WE0PXAP.png" tvg-id="", Kerala Vision News 24x7
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BUK9hWL.jpg" tvg-id="", REPORTER
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oW2v0NQ.png" tvg-id="", Shalom TV
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s2FYfJD.png" tvg-id="", Goodness TV
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1beRi2a.png" tvg-id="", POWERVISION TV
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/broUGMZ.jpg" tvg-id="", Youtalk
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BZwCogl.png" tvg-id="", Shekinah News
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Malayalam Songs
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
