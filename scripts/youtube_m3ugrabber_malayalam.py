@@ -4,7 +4,6 @@ import re
 print('#EXTM3U')
 s = requests.Session()
 headers = {
-    'User-Agent': 'PostmanRuntime/7.36.3',
     'Cookie': 'GPS=1; VISITOR_INFO1_LIVE=3RZ8w7ZfbwY; VISITOR_PRIVACY_METADATA=CgJJThIEGgAgIg%3D%3D; YSC=yfv3133jOhg; __Secure-ROLLOUT_TOKEN=CPbMm7iincnhAxCAgMuh38uPAxiAgMuh38uPAw%3D%3D'
 }
 
