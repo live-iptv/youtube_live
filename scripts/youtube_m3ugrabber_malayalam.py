@@ -4,7 +4,7 @@ import re
 print('#EXTM3U')
 s = requests.Session()
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    'User-Agent': 'PostmanRuntime/7.36.3'
 }
 with open('../youtube_channel_info_malayalam.txt') as f:
     for line in f:
