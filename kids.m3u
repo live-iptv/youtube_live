@@ -25,7 +25,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OyXFA4n.png" tvg-id="", Peppa Pig Français
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758658236/ei/XKrSaOPaBYiKkucP8uqhoQ8/ip/13.105.117.181/id/CbdWc03HXQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSV4P5qnch9VzKzc-e4rTI91ExRqxt7G4VPEXDpzbaQjootenzH1fkWmJwSRTN0uwt2T-LnWhNjO/spc/hcYD5TsD5ELqvwtWUJ4yDrNX3ALz_7Bks1oV9zYDFaXoKq7EARCkt3Apl3WotM3fOkg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593649/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBUKeaTpEd84RU43s3YbTZ7zq7b2YoVMd4RBNRQ23LMgCIB6t6o77CJu1iL-4EhsSqrPX6wX5-easu9OvmP-2R0zN/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", Pyjamasques Français
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
