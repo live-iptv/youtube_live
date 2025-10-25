@@ -19,7 +19,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761374620/ei/PB38aM_xAp2Elu8PvOulUA/ip/13.105.220.7/id/JSTdcV2fH8s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/ATw7iSVEldZdNw-fT6C1vSdxT7V_NQuTqpR4Kh5S5Z_6iUEQ4JBkB6rNnE0Nfdf7NW3I7roeZMc-P-d9/spc/hcYD5fEkwp39ssJcBCuRaC1sgj0-7d9M11LO5_EJYQnnBMGpWrcsvJbkK-YVo06A6ZY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgece8kVzw3zVjLzGK0ExnS9LBLuNKFnshhlcNth3wV_UCIEAWZ8hS1ZrooGPlAXtZFiKIqd4YaJAMFb6qr6z1VetQ/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", PJ Masks Official
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
