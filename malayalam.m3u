@@ -40,7 +40,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s2FYfJD.png" tvg-id="", Goodness TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762042333/ei/fU0Gaa6FGq6qzN0PlqCQMA/ip/13.105.117.207/id/BvFBHXaqRaQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634279/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RqWPbYCiOUjUU8SpUFI3EVfeyXQ9hHHlBO8D-v5EU-LyI3e_XAaBiI06zv5fo08rSgAezjl4Fu/spc/6b0G_B9B3n55bprPfaXmxeXUJ-Wmm7jPpH_c-SW3Tp0hjUaoLBpnOHp-N_GrIOqtayI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP1taVdNbvD9qs9F9Se2Dfl26VpnI8fdj2bOq0lsLOSnAiEAvPyo-6Rv-Hg33S5GsqI5TzTd78N-jjihRxvGzBBM4vc%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1beRi2a.png" tvg-id="", POWERVISION TV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
