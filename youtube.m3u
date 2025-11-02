@@ -31,7 +31,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762085598/ei/fvYGabJC7KLL-w_OmdHRCg/ip/13.105.117.215/id/0f_UCJUT3Q4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5Sx2XHydEWMbDJ4DXKI-1JIi5w-6sX28vHQh7DRBVdCbCyPilQqYb2pyoYqHX-j2xdL0v_qSOou/spc/6b0G_GAXkAaXKwCBV9wFaP57SC8-5ZC0hD9UGfTK_j0f8_EKlI5ypX-JoA6IiAa-vjc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJw1n1T_pzvT-GttInGzoPNUhS3wXeYSKwnhWUzI_p55AiA6zaX_V6ON1-w3ck0f7nRQNJgZxmmzY2dmVnMWGUmKEg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
