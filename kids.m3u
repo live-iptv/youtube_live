@@ -4,7 +4,7 @@
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762411551/ei/v-8LaeT8OYW1kucPiuL5-A0/ip/13.105.117.255/id/qlKdP0np4u8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AdEuB5QW5D1iYiUqhk-d74rl0rLksGSffa6liIOvj7lBPOd62j-vlzb_dxRka_kUgh09HC9xn4NmS5j0/spc/6b0G_IsHV47Zig1shu52m5axlI6jSVLH2xNzSlCrdfruEA0vmPOB-2ibyzI8zjUcU14/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIdRe5NBtwlPSdkevacrt4S5AXl4Ro0GQjznQ2rrkbygAiBz40eTirUnI0Ylkb8tQxjweek584anY9hih5P8WV30Xg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -34,4 +34,4 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762411558/ei/xu8LaeDEEISLkucPu_bbsQM/ip/13.105.117.255/id/ovDsbgjeQx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5TN5pnDHfMinp8fruLqJ3AX8j_4Pn1mFHOAt6wSuCbw2grDtvOMyqDqok_Ro2ODbVX8tzQdqIYf/spc/6b0G_PA74sXV4Ko1qBgUIgkPbFRLOhhaR1f1AHGRx4QFXrlkanY_BOeY_WiKx_rTEhc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLNovGtj59-7MyX95AI2kclPfm6dA5UuQGozqLb7zf44CIQCeN4Lgm2mza-a7dVvN3U7kcBEJOzOqQjWjcey1HZITfg%3D%3D/file/index.m3u8
