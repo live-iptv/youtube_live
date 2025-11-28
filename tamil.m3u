@@ -40,7 +40,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764312276/ei/dPAoaZO3FZbKkucP1cWduA0/ip/13.105.117.243/id/g_7IQn8BDro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SXwJZIfFKKpwGwoyrsI-spg-E0KGXYqh7tPBpIow4_l7eLNebspIDqegCgRYNRWka7LtpS3ffh/spc/6b0G_EJHXygG3EOlkgV0ZbYcqxofGqFLX6YrTpfJP9JtoWMpRY72ppd-qc2y6mHR6YE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJ0NJ6Sxd6tjXpEI32OkJUK73VBbRyu-Y4TKXlxjS7TICIQDljFLmdTLJy3Yw4vv13YF3OZwzRaGToSYjDJQUi-A3Yw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
