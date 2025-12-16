@@ -34,7 +34,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BUK9hWL.jpg" tvg-id="", REPORTER
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765923254/ei/VoVBaZO6N8GHr9gPo47xqAE/ip/13.105.117.150/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3An8lJoow9GGTIkDTxbV25zLUTpUopsJIXzHr649EA32a_JvHSOccJpSWaUqpFpVsIRReLvYzvD/spc/wH4Qq_4PWFpoqtZDinOV7W-XHkLNCZO9kJg73noXxjJNWqhW1L8whqwczxLZGt20qOA/vprv/1/go/1/ns/yKuh9D2p0T6RAIdoFuQa5r4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626154/dover/11/n/ZEZgWyHpAm2LZbt-_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgA0AGujev0Wk82DTSW-vxLMTzjdOygOdnvGVR81lYVhwCIFtJK6HQhSZwwhgmMKW4C55bF9IsP9izNHKOZKA36LXc/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oW2v0NQ.png" tvg-id="", Shalom TV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
