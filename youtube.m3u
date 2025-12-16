@@ -94,7 +94,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765923219/ei/M4VBaYqXHe2okucP0cCR-Ak/ip/13.105.117.150/id/vOTiJkg1voo.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3Ak1x4nGt7qklnaiSJzFejREBkIKtzhisplj4cJwT410Jo0E3BKolkPMmMalH1NnMMMXSO-LKb9/spc/wH4Qq-zG4RdfrPBtwn6E5S-rw-qOY6bRxcbEePrYm3BecLElDiYnAhH9rv7hM0MYjBs/vprv/1/go/1/ns/5UfzNAIYstEmgNIrIYymmZ0R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/1wg_1jXjm2g5_xTnm/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWckFP8jNXzgoK1qCn73b2JtJjwGaspfq2Wv2zr1yYrwCID5PMkBmuJGW2QIvQpsPbc3zZvr3jT4x-G-qLxV6q8Jx/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -115,7 +115,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/5J8K7qd.png" tvg-id="", DD NEWS 24X7
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765923224/ei/OIVBabS7ENLEkucPzt64-Ak/ip/13.105.117.150/id/QAwUbobJUn8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Dn35ccULvXq7SfykltCl5xJw9AEWs18nGBGnmPJ5WZ-R0kqaCVxlJVg3g-S9qNz1xWL3C1FFJD/spc/wH4Qq7FpED_9OK5rVVtYoLQ4-PnVdeS4b7QHmmCceS3ltHIDkIBftWj-p23_UZ2ElJU/vprv/1/go/1/ns/EVvrQ6TlswsxTYOfgJPI_qIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/uKSoxGNUiI1QXLUvx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXvY0JWT7IdG5_dPthzM9Qt6kP_Xdt1PktzrcI2wdLdwCIQD6ZTAPHRFOHM_MRQXHdNZOF-5fpeowj7CPo5aIiVjsIg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/cIDHsge.jpg" tvg-id="", CNBC Awaaz
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -139,7 +139,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/KQMMRmD.png" tvg-id="", News18 India
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765923229/ei/PYVBabzUKKqLr9gPmK6iqQI/ip/13.105.117.150/id/6O86Dn2abiA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CSR7Tk0PSqVuu3DwKSPh1vEDtsxx0noVNiMcAVdIry0veZEuXbU_gqxbdraAEBFlTa_G3MF6bd/spc/wH4Qq_hs801lPvcOlnWVjQTYu5FTXb70vAPOmE8OYCYNkPkh3HHgUB1ixPR7ctAvFyo/vprv/1/go/1/ns/LNuJbLI9j1h4wWP7fHA2xlgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/sM6q4no-22_eGH7sA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSokR9iz7LEzj01CZ25O9omgLwmBBQsb2SoGH8bAj9QICICcdZJKbOA9R0a9uMAG78scDP2n8Dn-ib-DdHuewXXOd/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", Franceinfo
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
