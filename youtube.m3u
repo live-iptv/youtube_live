@@ -139,7 +139,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/KQMMRmD.png" tvg-id="", News18 India
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766135749/ei/ZcNEadXkE92--coPj42KeQ/ip/13.105.49.124/id/T1jxhv8EthU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3B-voW3zPq3-rddUMdhviB3aIxPXRKvVyJkAjXHnVwiA4YWtHhVculpwdO8nE4LHeHhlWnVeJvU/spc/wH4QqzKzsxf6r8lLGQB4-yozU2se46kkTecHjid5uBNrU5J000nIjRCu7gic5MF7vqo/vprv/1/go/1/ns/srSNR239quGcGiRvKLawlxYR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/HBZ18GTxzIdVw70fGH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNoyyVnHDtzeFba5vhhtxMVDogCHa0Gv1mFtv1WYmaboCIQCvQfsKFLeRbytOFwaNv1tWt3RjWKXA78rG7zVav7nx0Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", Franceinfo
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
