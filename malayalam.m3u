@@ -13,7 +13,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767431696/ei/sIlYaYT-BJaKr9gPoZ_kiAY/ip/13.105.117.140/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3A0pzp6lkD4FZ2oS_u2QhlMzx25DvgzoSxaN7xZadJ-7X3rnXW6ayEXfS0oNx5g8qi0sJVvs1TZ/spc/wH4Qqz-G-wQWl71P7TOHpYzkItl3WXka5gnihMsI5ui_Gv98PajbtPgPMOIjwoX6WxE/vprv/1/go/1/ns/alafnsD4KxdS_J2qyrC7tsoR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/DwPyrZ0jd8mVWcbGRM/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZTZydYhBBexsF6qJZdP322OfYRHTpZSnoRPwNXlvQ7oCIQD_Djj-UZ8YjNf9FJUvsH32SJAahbrCaw5OjTksAuYbiA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RYlBNs5.jpg" tvg-id="", Raj News Malayalam
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
