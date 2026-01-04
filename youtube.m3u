@@ -163,7 +163,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="" tvg-id="", Zee Malayalam News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767572078/ei/Da5aaeSoPLeLr9gPmZzcmAI/ip/13.105.117.178/id/b31fhp0G1To.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3BVwQW-oHQ79-RdHPhYZ6G_BRSImgG72y61vOn-HrqgvCqyqWGYeKmKxj7k659BrvnarFvD1neR/spc/wH4Qq0ji3B7a-6XjETw1JcgM_vxt9RYHCby87BnGaZEQ6PSelWlebtU6qvO4U_nIOHE/vprv/1/go/1/ns/f5u2wdmRdDFQoErppNV_0Q4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/bfN-13RPOjzbXbIZj_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOYwEi-qy3O7MOHhqPUd6dTqonHqAP2cpbKMpbCotZH4CIQC_t3u1eM8Iodxokv259x6aapmrllAQYU0U4toy4WN5Lw%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
