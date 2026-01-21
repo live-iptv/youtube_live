@@ -118,7 +118,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/cIDHsge.jpg" tvg-id="", CNBC Awaaz
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769019774/ei/HsVwadvHDK7cybgP_P7viQ8/ip/13.105.117.132/id/ei2hxNAAfZM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_q4_8HSZP_WYZ6Reo_X2n3dZR4aNTiCXN-Bau-om7Y9QQkVjIEGtLz8xZ69gaGa4aHCiMxp2wya/spc/q5xjPOzv553aFj4dWghZo9mOph9cdxQ9BImsrrIn1axKoayZK-fzYKMhKa8Er725p5E/vprv/1/go/1/ns/9CxTBQatLAMEH3005PcBVHgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626154/dover/11/n/T-0txQE2rjLiyGI5XiK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAIJR0u8vLNQenlTJl5Jdxi7M5OKUS7OW1up4y7-bUZMGAiEAiq0fptXThQWqZMmJo01GMqLLa9OdtmSYYjeRvYDaii0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/ipmp1mQ.jpg" tvg-id="", Zee Hindustan
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
