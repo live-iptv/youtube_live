@@ -61,13 +61,13 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769120366/ei/Dk5yaeKSAo_MzN0P_-TkoQg/ip/13.105.117.230/id/LuKwFajn37U.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_p6Sim4a3x2sX8KVaU0tNKUFH-m6FQwRLk3WthDtAlXC1QZ5nq_D1SFrIMFBDr0Km7-HdEstj-a/spc/q5xjPJtB_NiKmuF9fgCKOV5N1txjTXFI_c4o-bKTf_kFQU5Xq-7kS2YWpnnThHPdcUFFzw/vprv/1/go/1/ns/rUrwU9F5Cspxaj7KXUIMbwQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/zs-p-r1a4ATcJvk-5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALQ9A3D00znlfpnd_Ezx7fmq698xTzkVI1KEBAKfMppeAiEAsUTLu6FV9GOl0Wjw-ibGD7Pc2yNWO-FnDsmm5mVQ1EE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769120367/ei/D05yaeydJ72-sfIPt4f2qQk/ip/13.105.117.230/id/WviNznKTVFw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rR39aeuEkCMokTGFqk2rt4YnT5I6uXiiGGzq7IxqeOYbNNSIwCAyghTXbWjvv3jxqhgAgI4UpC/spc/q5xjPIfFE5sBLVUWJPlCOKRRrryAXZpTjy2Lagmxkce0HN5Y8wU3Eew9qGoACmU4ZR2m-A/vprv/1/go/1/ns/sZyAG1G636ZWVj7JkLlVHZgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/EDX9Ownexpm-DcaMx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgVJzQ5S7raduacH07-TWCDMw7qLrAhSdl2xyr_KU8GdgCIQD7ow-2Pza_pfsZp9rpOdnKeLMLj--ojOn6EST377jjRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
