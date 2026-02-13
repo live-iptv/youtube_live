@@ -13,7 +13,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771021986/ei/QlKPab_NKJ6LsfIP37vsIA/ip/13.105.117.178/id/YY8yc2ctN0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rcaLmuiNq2bQTlZEiLRmVOJjVzVz-6b_wZDIux-tn1UE6DjjTz9T8iablsyQFMuYpU_JN__cuC/spc/q5xjPO52kG211m_JwZ9baj9iZREeXeEuZujyV9JZMlH1uc7YR4z4CEmJ3ZEIdmJPhlmO7w/vprv/1/go/1/ns/SPg6n8q3WmRoI4100pyCpygS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51772949/dover/11/n/N3WFRNZI6xBxb9xNz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhANOYkhYRzeCQXfv_3Tg5YdzXBJeLw8OMcQ1vxofSH8PzAiBMxRWSB6GhFZg3oSdG2f8yAC2nf5-RUEgIVd8pZskgUw%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
