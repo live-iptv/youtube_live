@@ -91,7 +91,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8wwqVHU.jpg" tvg-id="", GBNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771719469/ei/zfaZabntJ8qWr9gPg67nkAw/ip/13.105.117.134/id/IUAvXkBM7Ts.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-w6hpa0gLoCK0EffEwQyCG6EabAVNpm1UYmyZg3bR-wWBWcztQh1PVc1MQLVn15i4Ck5VOtEb7g/spc/6dlaFBNkIwTrwKErD6ZoRbdJ4eCmsJq63_pquUw7PX1s32mnwywS-X0aVVq0T71UdqvGfA/vprv/1/go/1/ns/TD9PO5OPHpieqe4qKnbyn4oS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968/dover/11/n/Plg5tUo7Hh1DTviHDXU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgVpOj69COSyBMppLU2BKKXRpuG4slGUT48HI-MUBmCtACIQCncM9TL01rtJIaQAx3e0kbyv30TqoWLvyw2kVVYL2Xxw%3D%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -214,7 +214,7 @@ https://live-iptv.github.io/youtube_live/assets/info.m3u8
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/pR6xpNp.png" tvg-id="", ETV Telangana
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771719493/ei/5PaZadiCOazFkucP_rOA8QE/ip/13.105.117.134/id/lsoXIXSo_b8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wFxvdK0xC9dYnNtq-Spqpj02QNfHlZWZek5St78ZcNX_ENi-Pfam-Y6WymLAeepI8YBhxkZa2Q/spc/6dlaFD434f-HeWhRAWirsGWSIITQahL-GoMGrl_IvUTRZdj0QMBytwT6A2Kx_3uwu6wxbQ/vprv/1/go/1/ns/HDe5c26I_YBuvLuH__Lds3IS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968/dover/11/n/2D8nZ9w17llpBk2ihU-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAKTCE8v60Dd7VT_74PXpeLhNLXj6_Hs9nQ3HkI_letTRAiEA1ZtHF19OgekHD0bVaI7L6sSkeYtl5rj2lDpkTsFpaXU%3D/file/index.m3u8
+https://live-iptv.github.io/youtube_live/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/oF59Iqw.png" tvg-id="", ETV Andhra Pradesh
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
